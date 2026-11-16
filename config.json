@@ -14,5 +14,15 @@
      "sessions": {"Qual": ["Qualifying", 1], "SS": ["Sprint Qualifying", 1], "SR": ["Sprint", 1], "Race": ["Grand Prix", 2]}},
     {"name": "NASCAR Cup", "emoji": "🏁", "league": "nascar-premier",
      "sessions": {"*": ["", 3.5]}}
+  ],
+  "wwe": [
+    {"name": "WWE Premium Live Event", "emoji": "🤼", "hours": 4,
+     "page": "List_of_WWE_pay-per-view_and_livestreaming_supercards",
+     "_comment": "Row colors on the Wikipedia page: #ffff80 = NXT, #b9e2c9 = AAA co-produced. Remove one to include those events.",
+     "exclude_row_colors": ["#ffff80", "#b9e2c9"],
+     "start_times": {
+       "2026-11-28": "2026-11-28T18:00:00-05:00",
+       "2026-12-12": "2026-12-12T05:30:00-05:00"
+     }}
   ]
 }

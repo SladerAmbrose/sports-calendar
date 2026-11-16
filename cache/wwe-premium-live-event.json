@@ -1,0 +1,164 @@
+[
+{
+"uid": "wwe-2026-01-24-saturday-night-s-main-event@sports-calendar",
+"title": "🤼 Saturday Night's Main Event",
+"start": "2026-01-24T00:00:00-05:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nSequentially referred to as Saturday Night's Main Event 43\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "Bell Centre, Montreal, Quebec, Canada"
+},
+{
+"uid": "wwe-2026-01-31-royal-rumble@sports-calendar",
+"title": "🤼 Royal Rumble",
+"start": "2026-01-31T00:00:00-05:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "Riyadh Season Stadium at King Abdullah Financial District, Riyadh, Saudi Arabia"
+},
+{
+"uid": "wwe-2026-02-28-elimination-chamber@sports-calendar",
+"title": "🤼 Elimination Chamber",
+"start": "2026-02-28T00:00:00-05:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "United Center, Chicago, Illinois"
+},
+{
+"uid": "wwe-2026-04-18-wrestlemania-42@sports-calendar",
+"title": "🤼 WrestleMania 42 – Night 1",
+"start": "2026-04-18T00:00:00-04:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nAired as a two-part event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "Allegiant Stadium, Paradise, Nevada"
+},
+{
+"uid": "wwe-2026-04-19-wrestlemania-42@sports-calendar",
+"title": "🤼 WrestleMania 42 – Night 2",
+"start": "2026-04-19T00:00:00-04:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nAired as a two-part event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "Allegiant Stadium, Paradise, Nevada"
+},
+{
+"uid": "wwe-2026-05-09-backlash@sports-calendar",
+"title": "🤼 Backlash",
+"start": "2026-05-09T00:00:00-04:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "Benchmark International Arena, Tampa, Florida"
+},
+{
+"uid": "wwe-2026-05-23-saturday-night-s-main-event@sports-calendar",
+"title": "🤼 Saturday Night's Main Event",
+"start": "2026-05-23T00:00:00-04:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nSequentially referred to as Saturday Night's Main Event 44\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "Allen County War Memorial Coliseum, Fort Wayne, Indiana"
+},
+{
+"uid": "wwe-2026-05-31-clash-in-italy@sports-calendar",
+"title": "🤼 Clash in Italy",
+"start": "2026-05-31T00:00:00-04:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "Inalpi Arena, Turin, Italy"
+},
+{
+"uid": "wwe-2026-06-27-night-of-champions@sports-calendar",
+"title": "🤼 Night of Champions",
+"start": "2026-06-27T00:00:00-04:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "Kingdom Arena, Riyadh, Saudi Arabia"
+},
+{
+"uid": "wwe-2026-07-18-saturday-night-s-main-event@sports-calendar",
+"title": "🤼 Saturday Night's Main Event",
+"start": "2026-07-18T00:00:00-04:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nSequentially referred to as Saturday Night's Main Event 45\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "Madison Square Garden, New York City, New York"
+},
+{
+"uid": "wwe-2026-08-01-summerslam@sports-calendar",
+"title": "🤼 SummerSlam – Night 1",
+"start": "2026-08-01T00:00:00-04:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nAired as a two-part event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "U.S. Bank Stadium, Minneapolis, Minnesota"
+},
+{
+"uid": "wwe-2026-08-02-summerslam@sports-calendar",
+"title": "🤼 SummerSlam – Night 2",
+"start": "2026-08-02T00:00:00-04:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nAired as a two-part event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "U.S. Bank Stadium, Minneapolis, Minnesota"
+},
+{
+"uid": "wwe-2026-09-06-sunday-night-s-main-event@sports-calendar",
+"title": "🤼 Sunday Night's Main Event",
+"start": "2026-09-06T00:00:00-04:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "State Farm Arena, Atlanta, Georgia"
+},
+{
+"uid": "wwe-2026-10-10-money-in-the-bank@sports-calendar",
+"title": "🤼 Money in the Bank",
+"start": "2026-10-10T00:00:00-04:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "Smoothie King Center, New Orleans, Louisiana"
+},
+{
+"uid": "wwe-2026-11-07-crown-jewel@sports-calendar",
+"title": "🤼 Crown Jewel",
+"start": "2026-11-07T00:00:00-05:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "ANB Arena, Riyadh, Saudi Arabia"
+},
+{
+"uid": "wwe-2026-11-28-survivor-series-wargames@sports-calendar",
+"title": "🤼 Survivor Series: WarGames",
+"start": "2026-11-28T18:00:00-05:00",
+"hours": 4,
+"time_valid": true,
+"description": "WWE Premium Live Event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "Daikin Park, Houston, Texas"
+},
+{
+"uid": "wwe-2026-12-12-wrestlepalooza@sports-calendar",
+"title": "🤼 Wrestlepalooza",
+"start": "2026-12-12T05:30:00-05:00",
+"hours": 4,
+"time_valid": true,
+"description": "WWE Premium Live Event\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "RAC Arena, Perth, Western Australia, Australia"
+},
+{
+"uid": "wwe-2027-02-06-royal-rumble@sports-calendar",
+"title": "🤼 Royal Rumble (time TBD)",
+"start": "2027-02-06T00:00:00-05:00",
+"hours": 4,
+"time_valid": false,
+"description": "WWE Premium Live Event\nStart time not announced yet\nhttps://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards",
+"location": "State Farm Stadium, Glendale, Arizona"
+}
+]
