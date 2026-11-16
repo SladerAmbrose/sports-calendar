@@ -80,10 +80,13 @@ def team_events(t):
     for y in (year, year + 1):
         urls += [f"{base}?season={y}", f"{base}?season={y}&seasontype=3"]
 
-    raw, ok = {}, False
+    raw, ok, current_record = {}, False, None
     for u in urls:
         try:
-            for e in fetch(u).get("events", []):
+            data = fetch(u)
+            if u == base:
+                current_record = (data.get("team") or {}).get("recordSummary")
+            for e in data.get("events", []):
                 raw[e["id"]] = e
             ok = True
         except Exception as e:  # noqa: BLE001
@@ -108,6 +111,34 @@ def team_events(t):
 
         status = (comp.get("status") or {}).get("type") or {}
         lines = [t["name"]]
+        status = (comp.get("status") or {}).get("type") or {}
+        done = bool(status.get("completed"))
+
+        def rank(c):
+            r = (c.get("curatedRank") or {}).get("current")
+            return f"#{r} " if r and r < 99 else ""
+
+        def rec(c):
+            """Record entering this game (ESPN's is post-game for completed games)."""
+            if not done:
+                return current_record if c is mine_c else None
+            total = next((r["displayValue"] for r in c.get("record") or [] if r.get("type") == "total"), None)
+            try:
+                parts = [int(x) for x in total.split("-")]
+            except (AttributeError, ValueError):
+                return None
+            others = [x for x in (home, away) if x is not c]
+            tie = not c.get("winner") and not (others and others[0].get("winner"))
+            i = 0 if c.get("winner") else (2 if tie and len(parts) > 2 else 1)
+            parts[i] = max(parts[i] - 1, 0)
+            return "-".join(map(str, parts))
+
+        mine_c = home if home["team"].get("id") == t["team_id"] else away
+        ra, rh = rec(away), rec(home)
+        matchup = f"{rank(away)}{nm(away)}{f' ({ra})' if ra else ''} {sep} " \
+                  f"{rank(home)}{nm(home)}{f' ({rh})' if rh else ''}"
+        if rank(away) or rank(home) or ra or rh:
+            lines.append(matchup)
         stype = (e.get("seasonType") or {}).get("name")
         week = (e.get("week") or {}).get("text")
         notes = [n.get("headline") for n in comp.get("notes") or [] if n.get("headline")]
@@ -174,11 +205,14 @@ def racing_events(r):
             lines = [r["name"], e["name"]]
             status = (comp.get("status") or {}).get("type") or {}
             if status.get("completed"):
-                winner = next((c for c in comp.get("competitors", []) if c.get("winner") or c.get("order") == 1), None)
-                if winner:
-                    who = (winner.get("athlete") or {}).get("displayName") or (winner.get("team") or {}).get("displayName")
-                    if who:
-                        lines.append(f"🏆 {who}")
+                ranked = sorted((c for c in comp.get("competitors", []) if c.get("order")),
+                                key=lambda c: c["order"])[:3]
+                names = [(c.get("athlete") or {}).get("displayName") or (c.get("team") or {}).get("displayName")
+                         for c in ranked]
+                medals = ["🥇", "🥈", "🥉"]
+                podium = "  ".join(f"{m} {n}" for m, n in zip(medals, names) if n)
+                if podium:
+                    lines.append(podium)
             tv = broadcasts(comp)
             if tv:
                 lines.append(f"📺 {tv}")

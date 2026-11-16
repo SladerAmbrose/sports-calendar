@@ -5,7 +5,7 @@
 "start": "2026-03-07T05:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nQatar Airways Australian Grand Prix\n🏆 George Russell\n📺 Apple TV",
+"description": "Formula 1\nQatar Airways Australian Grand Prix\n🥇 George Russell  🥈 Kimi Antonelli  🥉 Isack Hadjar\n📺 Apple TV",
 "location": "Melbourne Grand Prix Circuit"
 },
 {
@@ -14,7 +14,7 @@
 "start": "2026-03-08T04:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nQatar Airways Australian Grand Prix\n🏆 George Russell\n📺 Apple TV",
+"description": "Formula 1\nQatar Airways Australian Grand Prix\n🥇 George Russell  🥈 Kimi Antonelli  🥉 Charles Leclerc\n📺 Apple TV",
 "location": "Melbourne Grand Prix Circuit"
 },
 {
@@ -23,7 +23,7 @@
 "start": "2026-03-13T07:30:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nHeineken Chinese Grand Prix\n🏆 George Russell\n📺 Apple TV",
+"description": "Formula 1\nHeineken Chinese Grand Prix\n🥇 George Russell  🥈 Kimi Antonelli  🥉 Lando Norris\n📺 Apple TV",
 "location": "Shanghai International Circuit"
 },
 {
@@ -32,7 +32,7 @@
 "start": "2026-03-14T03:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nHeineken Chinese Grand Prix\n🏆 George Russell\n📺 Apple TV",
+"description": "Formula 1\nHeineken Chinese Grand Prix\n🥇 George Russell  🥈 Charles Leclerc  🥉 Lewis Hamilton\n📺 Apple TV",
 "location": "Shanghai International Circuit"
 },
 {
@@ -41,7 +41,7 @@
 "start": "2026-03-14T07:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nHeineken Chinese Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nHeineken Chinese Grand Prix\n🥇 Kimi Antonelli  🥈 George Russell  🥉 Lewis Hamilton\n📺 Apple TV",
 "location": "Shanghai International Circuit"
 },
 {
@@ -50,7 +50,7 @@
 "start": "2026-03-15T07:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nHeineken Chinese Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nHeineken Chinese Grand Prix\n🥇 Kimi Antonelli  🥈 George Russell  🥉 Lewis Hamilton\n📺 Apple TV",
 "location": "Shanghai International Circuit"
 },
 {
@@ -59,7 +59,7 @@
 "start": "2026-03-28T06:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nAramco Japanese Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nAramco Japanese Grand Prix\n🥇 Kimi Antonelli  🥈 George Russell  🥉 Oscar Piastri\n📺 Apple TV",
 "location": "Suzuka International Racing Course"
 },
 {
@@ -68,7 +68,7 @@
 "start": "2026-03-29T05:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nAramco Japanese Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nAramco Japanese Grand Prix\n🥇 Kimi Antonelli  🥈 Oscar Piastri  🥉 Charles Leclerc\n📺 Apple TV",
 "location": "Suzuka International Racing Course"
 },
 {
@@ -113,7 +113,7 @@
 "start": "2026-05-01T20:30:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nCrypto.com Miami Grand Prix\n🏆 Lando Norris\n📺 Apple TV",
+"description": "Formula 1\nCrypto.com Miami Grand Prix\n🥇 Lando Norris  🥈 Kimi Antonelli  🥉 Oscar Piastri\n📺 Apple TV",
 "location": "Miami International Autodrome"
 },
 {
@@ -122,7 +122,7 @@
 "start": "2026-05-02T16:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nCrypto.com Miami Grand Prix\n🏆 Lando Norris\n📺 Apple TV",
+"description": "Formula 1\nCrypto.com Miami Grand Prix\n🥇 Lando Norris  🥈 Oscar Piastri  🥉 Charles Leclerc\n📺 Apple TV",
 "location": "Miami International Autodrome"
 },
 {
@@ -131,7 +131,7 @@
 "start": "2026-05-02T20:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nCrypto.com Miami Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nCrypto.com Miami Grand Prix\n🥇 Kimi Antonelli  🥈 Max Verstappen  🥉 Charles Leclerc\n📺 Apple TV",
 "location": "Miami International Autodrome"
 },
 {
@@ -140,7 +140,7 @@
 "start": "2026-05-03T17:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nCrypto.com Miami Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nCrypto.com Miami Grand Prix\n🥇 Kimi Antonelli  🥈 Lando Norris  🥉 Oscar Piastri\n📺 Apple TV",
 "location": "Miami International Autodrome"
 },
 {
@@ -149,7 +149,7 @@
 "start": "2026-05-22T20:30:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nLenovo Canadian Grand Prix\n🏆 George Russell\n📺 Apple TV, Netflix",
+"description": "Formula 1\nLenovo Canadian Grand Prix\n🥇 George Russell  🥈 Kimi Antonelli  🥉 Lando Norris\n📺 Apple TV, Netflix",
 "location": "Circuit Gilles-Villeneuve"
 },
 {
@@ -158,7 +158,7 @@
 "start": "2026-05-23T16:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nLenovo Canadian Grand Prix\n🏆 George Russell\n📺 Apple TV, Netflix",
+"description": "Formula 1\nLenovo Canadian Grand Prix\n🥇 George Russell  🥈 Lando Norris  🥉 Kimi Antonelli\n📺 Apple TV, Netflix",
 "location": "Circuit Gilles-Villeneuve"
 },
 {
@@ -167,7 +167,7 @@
 "start": "2026-05-23T20:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nLenovo Canadian Grand Prix\n🏆 George Russell\n📺 Apple TV, Netflix",
+"description": "Formula 1\nLenovo Canadian Grand Prix\n🥇 George Russell  🥈 Kimi Antonelli  🥉 Lando Norris\n📺 Apple TV, Netflix",
 "location": "Circuit Gilles-Villeneuve"
 },
 {
@@ -176,7 +176,7 @@
 "start": "2026-05-24T20:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nLenovo Canadian Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV, Netflix",
+"description": "Formula 1\nLenovo Canadian Grand Prix\n🥇 Kimi Antonelli  🥈 Lewis Hamilton  🥉 Max Verstappen\n📺 Apple TV, Netflix",
 "location": "Circuit Gilles-Villeneuve"
 },
 {
@@ -185,7 +185,7 @@
 "start": "2026-06-06T14:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nMonaco Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nMonaco Grand Prix\n🥇 Kimi Antonelli  🥈 Max Verstappen  🥉 Lewis Hamilton\n📺 Apple TV",
 "location": "Circuit de Monaco"
 },
 {
@@ -194,7 +194,7 @@
 "start": "2026-06-07T13:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nMonaco Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nMonaco Grand Prix\n🥇 Kimi Antonelli  🥈 Lewis Hamilton  🥉 Isack Hadjar\n📺 Apple TV",
 "location": "Circuit de Monaco"
 },
 {
@@ -203,7 +203,7 @@
 "start": "2026-06-13T14:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nMSC Cruises Barcelona-Catalunya Grand Prix\n🏆 George Russell\n📺 Apple TV",
+"description": "Formula 1\nMSC Cruises Barcelona-Catalunya Grand Prix\n🥇 George Russell  🥈 Lewis Hamilton  🥉 Kimi Antonelli\n📺 Apple TV",
 "location": "Circuit de Catalunya"
 },
 {
@@ -212,7 +212,7 @@
 "start": "2026-06-14T13:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nMSC Cruises Barcelona-Catalunya Grand Prix\n🏆 Lewis Hamilton\n📺 Apple TV",
+"description": "Formula 1\nMSC Cruises Barcelona-Catalunya Grand Prix\n🥇 Lewis Hamilton  🥈 George Russell  🥉 Lando Norris\n📺 Apple TV",
 "location": "Circuit de Catalunya"
 },
 {
@@ -221,7 +221,7 @@
 "start": "2026-06-27T14:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nLenovo Austrian Grand Prix\n🏆 George Russell\n📺 Apple TV",
+"description": "Formula 1\nLenovo Austrian Grand Prix\n🥇 George Russell  🥈 Charles Leclerc  🥉 Lewis Hamilton\n📺 Apple TV",
 "location": "Red Bull Ring"
 },
 {
@@ -230,7 +230,7 @@
 "start": "2026-06-28T13:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nLenovo Austrian Grand Prix\n🏆 George Russell\n📺 Apple TV",
+"description": "Formula 1\nLenovo Austrian Grand Prix\n🥇 George Russell  🥈 Max Verstappen  🥉 Kimi Antonelli\n📺 Apple TV",
 "location": "Red Bull Ring"
 },
 {
@@ -239,7 +239,7 @@
 "start": "2026-07-03T15:30:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nPirelli British Grand Prix\n🏆 Lewis Hamilton\n📺 Apple TV",
+"description": "Formula 1\nPirelli British Grand Prix\n🥇 Lewis Hamilton  🥈 Kimi Antonelli  🥉 Max Verstappen\n📺 Apple TV",
 "location": "Silverstone Circuit"
 },
 {
@@ -248,7 +248,7 @@
 "start": "2026-07-04T11:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nPirelli British Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nPirelli British Grand Prix\n🥇 Kimi Antonelli  🥈 Lewis Hamilton  🥉 Lando Norris\n📺 Apple TV",
 "location": "Silverstone Circuit"
 },
 {
@@ -257,7 +257,7 @@
 "start": "2026-07-04T15:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nPirelli British Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nPirelli British Grand Prix\n🥇 Kimi Antonelli  🥈 Charles Leclerc  🥉 Lewis Hamilton\n📺 Apple TV",
 "location": "Silverstone Circuit"
 },
 {
@@ -266,7 +266,7 @@
 "start": "2026-07-05T14:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nPirelli British Grand Prix\n🏆 Charles Leclerc\n📺 Apple TV",
+"description": "Formula 1\nPirelli British Grand Prix\n🥇 Charles Leclerc  🥈 George Russell  🥉 Lewis Hamilton\n📺 Apple TV",
 "location": "Silverstone Circuit"
 },
 {
@@ -275,7 +275,7 @@
 "start": "2026-07-18T14:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nMoët & Chandon Belgian Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nMoët & Chandon Belgian Grand Prix\n🥇 Kimi Antonelli  🥈 Max Verstappen  🥉 Lando Norris\n📺 Apple TV",
 "location": "Circuit de Spa-Francorchamps"
 },
 {
@@ -284,7 +284,7 @@
 "start": "2026-07-19T13:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nMoët & Chandon Belgian Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nMoët & Chandon Belgian Grand Prix\n🥇 Kimi Antonelli  🥈 Charles Leclerc  🥉 Max Verstappen\n📺 Apple TV",
 "location": "Circuit de Spa-Francorchamps"
 },
 {
@@ -293,7 +293,7 @@
 "start": "2026-07-25T14:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nAWS Hungarian Grand Prix\n🏆 Lando Norris\n📺 Apple TV",
+"description": "Formula 1\nAWS Hungarian Grand Prix\n🥇 Lando Norris  🥈 Lewis Hamilton  🥉 Charles Leclerc\n📺 Apple TV",
 "location": "Hungaroring"
 },
 {
@@ -302,7 +302,7 @@
 "start": "2026-07-26T13:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nAWS Hungarian Grand Prix\n🏆 Lando Norris\n📺 Apple TV",
+"description": "Formula 1\nAWS Hungarian Grand Prix\n🥇 Lando Norris  🥈 Max Verstappen  🥉 Kimi Antonelli\n📺 Apple TV",
 "location": "Hungaroring"
 },
 {
@@ -311,7 +311,7 @@
 "start": "2026-08-21T14:30:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nHeineken Dutch Grand Prix\n🏆 George Russell\n📺 Apple TV",
+"description": "Formula 1\nHeineken Dutch Grand Prix\n🥇 George Russell  🥈 Lando Norris  🥉 Charles Leclerc\n📺 Apple TV",
 "location": "Circuit Park Zandvoort"
 },
 {
@@ -320,7 +320,7 @@
 "start": "2026-08-22T10:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nHeineken Dutch Grand Prix\n🏆 George Russell\n📺 Apple TV",
+"description": "Formula 1\nHeineken Dutch Grand Prix\n🥇 George Russell  🥈 Charles Leclerc  🥉 Lando Norris\n📺 Apple TV",
 "location": "Circuit Park Zandvoort"
 },
 {
@@ -329,7 +329,7 @@
 "start": "2026-08-22T14:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nHeineken Dutch Grand Prix\n🏆 Lando Norris\n📺 Apple TV",
+"description": "Formula 1\nHeineken Dutch Grand Prix\n🥇 Lando Norris  🥈 George Russell  🥉 Kimi Antonelli\n📺 Apple TV",
 "location": "Circuit Park Zandvoort"
 },
 {
@@ -338,7 +338,7 @@
 "start": "2026-08-23T13:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nHeineken Dutch Grand Prix\n🏆 Lando Norris\n📺 Apple TV",
+"description": "Formula 1\nHeineken Dutch Grand Prix\n🥇 Lando Norris  🥈 Kimi Antonelli  🥉 George Russell\n📺 Apple TV",
 "location": "Circuit Park Zandvoort"
 },
 {
@@ -347,7 +347,7 @@
 "start": "2026-09-05T14:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nPirelli Italian Grand Prix\n🏆 Pierre Gasly\n📺 Apple TV",
+"description": "Formula 1\nPirelli Italian Grand Prix\n🥇 Pierre Gasly  🥈 George Russell  🥉 Oscar Piastri\n📺 Apple TV",
 "location": "Autodromo Nazionale Monza"
 },
 {
@@ -356,7 +356,7 @@
 "start": "2026-09-06T13:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nPirelli Italian Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nPirelli Italian Grand Prix\n🥇 Kimi Antonelli  🥈 George Russell  🥉 Max Verstappen\n📺 Apple TV",
 "location": "Autodromo Nazionale Monza"
 },
 {
@@ -365,7 +365,7 @@
 "start": "2026-09-12T14:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nTag Heuer Spanish Grand Prix\n🏆 Lando Norris\n📺 Apple TV",
+"description": "Formula 1\nTag Heuer Spanish Grand Prix\n🥇 Lando Norris  🥈 Kimi Antonelli  🥉 Max Verstappen\n📺 Apple TV",
 "location": "Madring"
 },
 {
@@ -374,7 +374,7 @@
 "start": "2026-09-13T13:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nTag Heuer Spanish Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nTag Heuer Spanish Grand Prix\n🥇 Kimi Antonelli  🥈 Max Verstappen  🥉 Lando Norris\n📺 Apple TV",
 "location": "Madring"
 },
 {
@@ -383,7 +383,7 @@
 "start": "2026-09-25T12:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nQatar Airways Azerbaijan Grand Prix\n🏆 George Russell\n📺 Apple TV",
+"description": "Formula 1\nQatar Airways Azerbaijan Grand Prix\n🥇 George Russell  🥈 Charles Leclerc  🥉 Oscar Piastri\n📺 Apple TV",
 "location": "Baku City Circuit"
 },
 {
@@ -392,7 +392,7 @@
 "start": "2026-09-26T11:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nQatar Airways Azerbaijan Grand Prix\n🏆 George Russell\n📺 Apple TV",
+"description": "Formula 1\nQatar Airways Azerbaijan Grand Prix\n🥇 George Russell  🥈 Max Verstappen  🥉 Isack Hadjar\n📺 Apple TV",
 "location": "Baku City Circuit"
 },
 {
@@ -401,7 +401,7 @@
 "start": "2026-10-03T08:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nGulf Air Bahrain Grand Prix in Malaysia\n🏆 Max Verstappen\n📺 Apple TV",
+"description": "Formula 1\nGulf Air Bahrain Grand Prix in Malaysia\n🥇 Max Verstappen  🥈 Lewis Hamilton  🥉 Isack Hadjar\n📺 Apple TV",
 "location": "Sepang International Circuit"
 },
 {
@@ -410,7 +410,7 @@
 "start": "2026-10-04T07:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nGulf Air Bahrain Grand Prix in Malaysia\n🏆 Max Verstappen\n📺 Apple TV",
+"description": "Formula 1\nGulf Air Bahrain Grand Prix in Malaysia\n🥇 Max Verstappen  🥈 Kimi Antonelli  🥉 Lewis Hamilton\n📺 Apple TV",
 "location": "Sepang International Circuit"
 },
 {
@@ -419,7 +419,7 @@
 "start": "2026-10-09T12:30:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nSingapore Airlines Singapore Grand Prix\n🏆 Max Verstappen\n📺 Apple TV",
+"description": "Formula 1\nSingapore Airlines Singapore Grand Prix\n🥇 Max Verstappen  🥈 George Russell  🥉 Charles Leclerc\n📺 Apple TV",
 "location": "Marina Bay Street Circuit"
 },
 {
@@ -428,7 +428,7 @@
 "start": "2026-10-10T09:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nSingapore Airlines Singapore Grand Prix\n🏆 Max Verstappen\n📺 Apple TV",
+"description": "Formula 1\nSingapore Airlines Singapore Grand Prix\n🥇 Max Verstappen  🥈 Lewis Hamilton  🥉 Charles Leclerc\n📺 Apple TV",
 "location": "Marina Bay Street Circuit"
 },
 {
@@ -437,7 +437,7 @@
 "start": "2026-10-10T13:30:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nSingapore Airlines Singapore Grand Prix\n🏆 Max Verstappen\n📺 Apple TV",
+"description": "Formula 1\nSingapore Airlines Singapore Grand Prix\n🥇 Max Verstappen  🥈 Charles Leclerc  🥉 Lewis Hamilton\n📺 Apple TV",
 "location": "Marina Bay Street Circuit"
 },
 {
@@ -446,7 +446,7 @@
 "start": "2026-10-11T12:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nSingapore Airlines Singapore Grand Prix\n🏆 Max Verstappen\n📺 Apple TV",
+"description": "Formula 1\nSingapore Airlines Singapore Grand Prix\n🥇 Max Verstappen  🥈 Charles Leclerc  🥉 Kimi Antonelli\n📺 Apple TV",
 "location": "Marina Bay Street Circuit"
 },
 {
@@ -455,7 +455,7 @@
 "start": "2026-10-24T21:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nMSC Cruises United States Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nMSC Cruises United States Grand Prix\n🥇 Kimi Antonelli  🥈 Max Verstappen  🥉 Isack Hadjar\n📺 Apple TV",
 "location": "Circuit of the Americas"
 },
 {
@@ -464,7 +464,7 @@
 "start": "2026-10-25T20:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nMSC Cruises United States Grand Prix\n🏆 Kimi Antonelli\n📺 Apple TV",
+"description": "Formula 1\nMSC Cruises United States Grand Prix\n🥇 Kimi Antonelli  🥈 Charles Leclerc  🥉 Max Verstappen\n📺 Apple TV",
 "location": "Circuit of the Americas"
 },
 {
@@ -473,7 +473,7 @@
 "start": "2026-10-31T21:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nMexico City Grand Prix\n🏆 Lewis Hamilton\n📺 Apple TV",
+"description": "Formula 1\nMexico City Grand Prix\n🥇 Lewis Hamilton  🥈 George Russell  🥉 Charles Leclerc\n📺 Apple TV",
 "location": "Autodromo Hermanos Rodriguez"
 },
 {
@@ -482,7 +482,7 @@
 "start": "2026-11-01T20:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nMexico City Grand Prix\n🏆 Max Verstappen\n📺 Apple TV",
+"description": "Formula 1\nMexico City Grand Prix\n🥇 Max Verstappen  🥈 Lewis Hamilton  🥉 Kimi Antonelli\n📺 Apple TV",
 "location": "Autodromo Hermanos Rodriguez"
 },
 {
@@ -491,7 +491,7 @@
 "start": "2026-11-07T18:00:00+00:00",
 "hours": 1,
 "time_valid": true,
-"description": "Formula 1\nMSC Cruises São Paulo Grand Prix\n🏆 Lando Norris\n📺 Apple TV",
+"description": "Formula 1\nMSC Cruises São Paulo Grand Prix\n🥇 Lando Norris  🥈 George Russell  🥉 Kimi Antonelli\n📺 Apple TV",
 "location": "Autodromo Jose Carlos Pace"
 },
 {
@@ -500,7 +500,7 @@
 "start": "2026-11-08T17:00:00+00:00",
 "hours": 2,
 "time_valid": true,
-"description": "Formula 1\nMSC Cruises São Paulo Grand Prix\n🏆 Lando Norris\n📺 Apple TV",
+"description": "Formula 1\nMSC Cruises São Paulo Grand Prix\n🥇 Lando Norris  🥈 Max Verstappen  🥉 Isack Hadjar\n📺 Apple TV",
 "location": "Autodromo Jose Carlos Pace"
 },
 {

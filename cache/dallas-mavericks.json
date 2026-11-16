@@ -5,7 +5,7 @@
 "start": "2026-10-22T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 110, Rockets 128 (L)\nDallas Mavericks\nRegular Season\n📺 NBA League Pass, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909840/mavericks-rockets",
+"description": "Final: Mavericks 110, Rockets 128 (L)\nDallas Mavericks\nMavericks (0-0) @ Rockets (0-0)\nRegular Season\n📺 NBA League Pass, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909840/mavericks-rockets",
 "location": "Toyota Center (Houston)"
 },
 {
@@ -14,7 +14,7 @@
 "start": "2026-10-23T23:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 121, Pacers 105 (W)\nDallas Mavericks\nRegular Season\n📺 NBA League Pass, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909844/mavericks-pacers",
+"description": "Final: Mavericks 121, Pacers 105 (W)\nDallas Mavericks\nMavericks (0-1) @ Pacers (1-0)\nRegular Season\n📺 NBA League Pass, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909844/mavericks-pacers",
 "location": "Gainbridge Fieldhouse, Indianapolis, IN"
 },
 {
@@ -23,7 +23,7 @@
 "start": "2026-10-25T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Spurs 122, Mavericks 106 (L)\nDallas Mavericks\nRegular Season\n📺 NBA League Pass, KFAA-TV, MavsTV, DAZN SAS\nhttps://www.espn.com/nba/game/_/gameId/401909858/spurs-mavericks",
+"description": "Final: Spurs 122, Mavericks 106 (L)\nDallas Mavericks\nSpurs (0-2) @ Mavericks (1-1)\nRegular Season\n📺 NBA League Pass, KFAA-TV, MavsTV, DAZN SAS\nhttps://www.espn.com/nba/game/_/gameId/401909858/spurs-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -32,7 +32,7 @@
 "start": "2026-10-26T23:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 113, Heat 109 (W)\nDallas Mavericks\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909871/mavericks-heat",
+"description": "Final: Mavericks 113, Heat 109 (W)\nDallas Mavericks\nMavericks (1-2) @ Heat (0-3)\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909871/mavericks-heat",
 "location": "Kaseya Center, Miami, FL"
 },
 {
@@ -41,7 +41,7 @@
 "start": "2026-10-29T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Thunder 96, Mavericks 120 (W)\nDallas Mavericks\nRegular Season\n📺 ESPN, KSBI, KFAA-TV, MavsTV, Thunder App\nhttps://www.espn.com/nba/game/_/gameId/401909891/thunder-mavericks",
+"description": "Final: Thunder 96, Mavericks 120 (W)\nDallas Mavericks\nThunder (4-0) @ Mavericks (2-2)\nRegular Season\n📺 ESPN, KSBI, KFAA-TV, MavsTV, Thunder App\nhttps://www.espn.com/nba/game/_/gameId/401909891/thunder-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -50,7 +50,7 @@
 "start": "2026-10-31T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Rockets 111, Mavericks 116 (W)\nDallas Mavericks\nRegular Season · NBA Cup - Group Play\n📺 NBA League Pass, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909283/rockets-mavericks",
+"description": "Final: Rockets 111, Mavericks 116 (W)\nDallas Mavericks\nRockets (5-0) @ Mavericks (3-2)\nRegular Season · NBA Cup - Group Play\n📺 NBA League Pass, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909283/rockets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -59,7 +59,7 @@
 "start": "2026-11-03T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Kings 115, Mavericks 100 (L)\nDallas Mavericks\nRegular Season\n📺 NBA League Pass, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909913/kings-mavericks",
+"description": "Final: Kings 115, Mavericks 100 (L)\nDallas Mavericks\nKings (0-6) @ Mavericks (4-2)\nRegular Season\n📺 NBA League Pass, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909913/kings-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -68,7 +68,7 @@
 "start": "2026-11-05T02:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 111, Spurs 112 (L)\nDallas Mavericks\nRegular Season\n📺 ESPN\nhttps://www.espn.com/nba/game/_/gameId/401909933/mavericks-spurs",
+"description": "Final: Mavericks 111, Spurs 112 (L)\nDallas Mavericks\nMavericks (4-3) @ Spurs (5-2)\nRegular Season\n📺 ESPN\nhttps://www.espn.com/nba/game/_/gameId/401909933/mavericks-spurs",
 "location": "Frost Bank Center, San Antonio, TX"
 },
 {
@@ -77,7 +77,7 @@
 "start": "2026-11-07T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Jazz 100, Mavericks 112 (W)\nDallas Mavericks\nRegular Season · NBA Cup - Group Play\n📺 KFAA-TV, MavsTV, KJZZ-TV, Jazz+\nhttps://www.espn.com/nba/game/_/gameId/401909290/jazz-mavericks",
+"description": "Final: Jazz 100, Mavericks 112 (W)\nDallas Mavericks\nJazz (1-7) @ Mavericks (4-4)\nRegular Season · NBA Cup - Group Play\n📺 KFAA-TV, MavsTV, KJZZ-TV, Jazz+\nhttps://www.espn.com/nba/game/_/gameId/401909290/jazz-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -86,7 +86,7 @@
 "start": "2026-11-09T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Nets 93, Mavericks 130 (W)\nDallas Mavericks\nRegular Season\n📺 DAZN (YES), KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909948/nets-mavericks",
+"description": "Final: Nets 93, Mavericks 130 (W)\nDallas Mavericks\nNets (2-7) @ Mavericks (5-4)\nRegular Season\n📺 DAZN (YES), KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909948/nets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -95,7 +95,7 @@
 "start": "2026-11-10T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Pacers 122, Mavericks 125 (W)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, DAZN IND\nhttps://www.espn.com/nba/game/_/gameId/401909956/pacers-mavericks",
+"description": "Final: Pacers 122, Mavericks 125 (W)\nDallas Mavericks\nPacers (3-7) @ Mavericks (6-4)\nRegular Season\n📺 KFAA-TV, MavsTV, DAZN IND\nhttps://www.espn.com/nba/game/_/gameId/401909956/pacers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -104,7 +104,7 @@
 "start": "2026-11-13T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 94, Timberwolves 133 (L)\nDallas Mavericks\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909978/mavericks-timberwolves",
+"description": "Final: Mavericks 94, Timberwolves 133 (L)\nDallas Mavericks\nMavericks (7-4) @ Timberwolves (8-3)\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909978/mavericks-timberwolves",
 "location": "Target Center, Minneapolis, MN"
 },
 {
@@ -113,7 +113,7 @@
 "start": "2026-11-15T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 117, Cavaliers 127 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909981/mavericks-cavaliers",
+"description": "Final: Mavericks 117, Cavaliers 127 (L)\nDallas Mavericks\nMavericks (7-5) @ Cavaliers (6-7)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909981/mavericks-cavaliers",
 "location": "Rocket Arena, Cleveland, OH"
 },
 {
@@ -122,7 +122,7 @@
 "start": "2026-11-15T23:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 94, Celtics 131 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909989/mavericks-celtics",
+"description": "Final: Mavericks 94, Celtics 131 (L)\nDallas Mavericks\nMavericks (7-6) @ Celtics (10-2)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909989/mavericks-celtics",
 "location": "TD Garden, Boston, MA"
 },
 {
@@ -131,7 +131,7 @@
 "start": "2026-11-19T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910016/warriors-mavericks",
+"description": "Dallas Mavericks\nWarriors @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910016/warriors-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -140,7 +140,7 @@
 "start": "2026-11-22T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, ClipperVision\nhttps://www.espn.com/nba/game/_/gameId/401910025/clippers-mavericks",
+"description": "Dallas Mavericks\nClippers @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV, ClipperVision\nhttps://www.espn.com/nba/game/_/gameId/401910025/clippers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -149,7 +149,7 @@
 "start": "2026-11-23T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KJZZ-TV, Jazz+, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910033/mavericks-jazz",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Jazz\nRegular Season\n📺 KJZZ-TV, Jazz+, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910033/mavericks-jazz",
 "location": "Delta Center, Salt Lake City, UT"
 },
 {
@@ -158,7 +158,7 @@
 "start": "2026-11-25T03:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season · NBA Cup - Group Play\n📺 NBCSN, NBC, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909316/mavericks-nuggets",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Nuggets\nRegular Season · NBA Cup - Group Play\n📺 NBCSN, NBC, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909316/mavericks-nuggets",
 "location": "Ball Arena, Denver, CO"
 },
 {
@@ -167,7 +167,7 @@
 "start": "2026-11-28T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season · NBA Cup - Group Play\n📺 Suns Live, Arizona's Family 3TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909332/mavericks-suns",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Suns\nRegular Season · NBA Cup - Group Play\n📺 Suns Live, Arizona's Family 3TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401909332/mavericks-suns",
 "location": "Mortgage Matchup Center, Phoenix, AZ"
 },
 {
@@ -176,7 +176,7 @@
 "start": "2026-12-01T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910065/celtics-mavericks",
+"description": "Dallas Mavericks\nCeltics @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910065/celtics-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -185,7 +185,7 @@
 "start": "2026-12-03T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910079/magic-mavericks",
+"description": "Dallas Mavericks\nMagic @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910079/magic-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -194,7 +194,7 @@
 "start": "2026-12-15T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, MyMi, Bucks App\nhttps://www.espn.com/nba/game/_/gameId/401910109/bucks-mavericks",
+"description": "Dallas Mavericks\nBucks @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV, MyMi, Bucks App\nhttps://www.espn.com/nba/game/_/gameId/401910109/bucks-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -203,7 +203,7 @@
 "start": "2026-12-17T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 DAZN (YES), KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910122/mavericks-nets",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Nets\nRegular Season\n📺 DAZN (YES), KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910122/mavericks-nets",
 "location": "Barclays Center, Brooklyn, NY"
 },
 {
@@ -212,7 +212,7 @@
 "start": "2026-12-18T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910131/mavericks-76ers",
+"description": "Dallas Mavericks\nMavericks (7-7) @ 76ers\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910131/mavericks-76ers",
 "location": "Xfinity Mobile Arena, Philadelphia, PA"
 },
 {
@@ -221,7 +221,7 @@
 "start": "2026-12-20T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910147/bulls-mavericks",
+"description": "Dallas Mavericks\nBulls @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910147/bulls-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -230,7 +230,7 @@
 "start": "2026-12-23T03:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBC, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910171/mavericks-warriors",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Warriors\nRegular Season\n📺 NBC, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910171/mavericks-warriors",
 "location": "Chase Center, San Francisco, CA"
 },
 {
@@ -239,7 +239,7 @@
 "start": "2026-12-24T03:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910185/mavericks-kings",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Kings\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910185/mavericks-kings",
 "location": "Golden 1 Center, Sacramento, CA"
 },
 {
@@ -248,7 +248,7 @@
 "start": "2026-12-27T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV, Arizona's Family 3TV, Suns Live\nhttps://www.espn.com/nba/game/_/gameId/401910193/suns-mavericks",
+"description": "Dallas Mavericks\nSuns @ Mavericks (7-7)\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV, Arizona's Family 3TV, Suns Live\nhttps://www.espn.com/nba/game/_/gameId/401910193/suns-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -257,7 +257,7 @@
 "start": "2026-12-30T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBC\nhttps://www.espn.com/nba/game/_/gameId/401910214/heat-mavericks",
+"description": "Dallas Mavericks\nHeat @ Mavericks (7-7)\nRegular Season\n📺 NBC\nhttps://www.espn.com/nba/game/_/gameId/401910214/heat-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -266,7 +266,7 @@
 "start": "2027-01-02T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910239/mavericks-rockets",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Rockets\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910239/mavericks-rockets",
 "location": "Toyota Center (Houston)"
 },
 {
@@ -275,7 +275,7 @@
 "start": "2027-01-03T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910245/mavericks-hawks",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Hawks\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910245/mavericks-hawks",
 "location": "State Farm Arena, Atlanta, GA"
 },
 {
@@ -284,7 +284,7 @@
 "start": "2027-01-05T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 GCSEN, Pelicans.com, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910261/mavericks-pelicans",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Pelicans\nRegular Season\n📺 GCSEN, Pelicans.com, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910261/mavericks-pelicans",
 "location": "Smoothie King Center, New Orleans, LA"
 },
 {
@@ -293,7 +293,7 @@
 "start": "2027-01-08T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 BlazerVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910285/trail-blazers-mavericks",
+"description": "Dallas Mavericks\nTrail Blazers @ Mavericks (7-7)\nRegular Season\n📺 BlazerVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910285/trail-blazers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -302,7 +302,7 @@
 "start": "2027-01-09T02:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 ESPN, Suns Live, KFAA-TV, MavsTV, Arizona's Family 3TV\nhttps://www.espn.com/nba/game/_/gameId/401910296/suns-mavericks",
+"description": "Dallas Mavericks\nSuns @ Mavericks (7-7)\nRegular Season\n📺 ESPN, Suns Live, KFAA-TV, MavsTV, Arizona's Family 3TV\nhttps://www.espn.com/nba/game/_/gameId/401910296/suns-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -311,7 +311,7 @@
 "start": "2027-01-10T23:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 DAZN MEM, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910310/mavericks-grizzlies",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Grizzlies\nRegular Season\n📺 DAZN MEM, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910310/mavericks-grizzlies",
 "location": "FedExForum, Memphis, TN"
 },
 {
@@ -320,7 +320,7 @@
 "start": "2027-01-13T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 DAZN MEM, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910322/mavericks-grizzlies",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Grizzlies\nRegular Season\n📺 DAZN MEM, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910322/mavericks-grizzlies",
 "location": "FedExForum, Memphis, TN"
 },
 {
@@ -329,7 +329,7 @@
 "start": "2027-01-15T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910335/mavericks-pistons",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Pistons\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910335/mavericks-pistons",
 "location": "Little Caesars Arena, Detroit, MI"
 },
 {
@@ -338,7 +338,7 @@
 "start": "2027-01-17T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910353/mavericks-knicks",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Knicks\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910353/mavericks-knicks",
 "location": "Madison Square Garden, New York, NY"
 },
 {
@@ -347,7 +347,7 @@
 "start": "2027-01-19T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, Thunder App\nhttps://www.espn.com/nba/game/_/gameId/401910366/thunder-mavericks",
+"description": "Dallas Mavericks\nThunder @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV, Thunder App\nhttps://www.espn.com/nba/game/_/gameId/401910366/thunder-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -356,7 +356,7 @@
 "start": "2027-01-20T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBC, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910372/hornets-mavericks",
+"description": "Dallas Mavericks\nHornets @ Mavericks (7-7)\nRegular Season\n📺 NBC, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910372/hornets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -365,7 +365,7 @@
 "start": "2027-01-23T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 GCSEN, Pelicans.com, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910393/mavericks-pelicans",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Pelicans\nRegular Season\n📺 GCSEN, Pelicans.com, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910393/mavericks-pelicans",
 "location": "Smoothie King Center, New Orleans, LA"
 },
 {
@@ -374,7 +374,7 @@
 "start": "2027-01-24T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910404/cavaliers-mavericks",
+"description": "Dallas Mavericks\nCavaliers @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910404/cavaliers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -383,7 +383,7 @@
 "start": "2027-01-26T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910417/mavericks-bulls",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Bulls\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910417/mavericks-bulls",
 "location": "United Center, Chicago, IL"
 },
 {
@@ -392,7 +392,7 @@
 "start": "2027-01-28T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910432/mavericks-raptors",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Raptors\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910432/mavericks-raptors",
 "location": "Scotiabank Arena, Toronto, ON"
 },
 {
@@ -401,7 +401,7 @@
 "start": "2027-01-30T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910448/pistons-mavericks",
+"description": "Dallas Mavericks\nPistons @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910448/pistons-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -410,7 +410,7 @@
 "start": "2027-02-01T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBC\nhttps://www.espn.com/nba/game/_/gameId/401910466/rockets-mavericks",
+"description": "Dallas Mavericks\nRockets @ Mavericks (7-7)\nRegular Season\n📺 NBC\nhttps://www.espn.com/nba/game/_/gameId/401910466/rockets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -419,7 +419,7 @@
 "start": "2027-02-03T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910478/raptors-mavericks",
+"description": "Dallas Mavericks\nRaptors @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910478/raptors-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -428,7 +428,7 @@
 "start": "2027-02-05T03:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401910495/mavericks-nuggets",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Nuggets\nRegular Season\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401910495/mavericks-nuggets",
 "location": "Ball Arena, Denver, CO"
 },
 {
@@ -437,7 +437,7 @@
 "start": "2027-02-06T20:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, KJZZ-TV, Jazz+\nhttps://www.espn.com/nba/game/_/gameId/401910504/jazz-mavericks",
+"description": "Dallas Mavericks\nJazz @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV, KJZZ-TV, Jazz+\nhttps://www.espn.com/nba/game/_/gameId/401910504/jazz-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -446,7 +446,7 @@
 "start": "2027-02-07T21:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, ClipperVision\nhttps://www.espn.com/nba/game/_/gameId/401910516/clippers-mavericks",
+"description": "Dallas Mavericks\nClippers @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV, ClipperVision\nhttps://www.espn.com/nba/game/_/gameId/401910516/clippers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -455,7 +455,7 @@
 "start": "2027-02-10T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBC, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910533/spurs-mavericks",
+"description": "Dallas Mavericks\nSpurs @ Mavericks (7-7)\nRegular Season\n📺 NBC, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910533/spurs-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -464,7 +464,7 @@
 "start": "2027-02-12T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KUNP 16, BlazerVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910548/trail-blazers-mavericks",
+"description": "Dallas Mavericks\nTrail Blazers @ Mavericks (7-7)\nRegular Season\n📺 KUNP 16, BlazerVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910548/trail-blazers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -473,7 +473,7 @@
 "start": "2027-02-13T20:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401910561/mavericks-hornets",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Hornets\nRegular Season\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401910561/mavericks-hornets",
 "location": "Spectrum Center, Charlotte, NC"
 },
 {
@@ -482,7 +482,7 @@
 "start": "2027-02-15T19:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBC\nhttps://www.espn.com/nba/game/_/gameId/401909478/76ers-mavericks",
+"description": "Dallas Mavericks\n76ers @ Mavericks (7-7)\nRegular Season\n📺 NBC\nhttps://www.espn.com/nba/game/_/gameId/401909478/76ers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -491,7 +491,7 @@
 "start": "2027-02-18T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910586/mavericks-magic",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Magic\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910586/mavericks-magic",
 "location": "Kia Center, Orlando, FL"
 },
 {
@@ -500,7 +500,7 @@
 "start": "2027-02-26T03:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401910608/mavericks-warriors",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Warriors\nRegular Season\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401910608/mavericks-warriors",
 "location": "Chase Center, San Francisco, CA"
 },
 {
@@ -509,7 +509,7 @@
 "start": "2027-02-27T03:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KUNP 16, BlazerVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910616/mavericks-trail-blazers",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Trail Blazers\nRegular Season\n📺 KUNP 16, BlazerVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910616/mavericks-trail-blazers",
 "location": "Moda Center, Portland, OR"
 },
 {
@@ -518,7 +518,7 @@
 "start": "2027-02-28T20:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 ABC\nhttps://www.espn.com/nba/game/_/gameId/401910624/lakers-mavericks",
+"description": "Dallas Mavericks\nLakers @ Mavericks (7-7)\nRegular Season\n📺 ABC\nhttps://www.espn.com/nba/game/_/gameId/401910624/lakers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -527,7 +527,7 @@
 "start": "2027-03-03T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910642/warriors-mavericks",
+"description": "Dallas Mavericks\nWarriors @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910642/warriors-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -536,7 +536,7 @@
 "start": "2027-03-05T02:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401910658/knicks-mavericks",
+"description": "Dallas Mavericks\nKnicks @ Mavericks (7-7)\nRegular Season\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401910658/knicks-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -545,7 +545,7 @@
 "start": "2027-03-09T02:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBCSN, KSBI, Thunder App\nhttps://www.espn.com/nba/game/_/gameId/401910686/mavericks-thunder",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Thunder\nRegular Season\n📺 NBCSN, KSBI, Thunder App\nhttps://www.espn.com/nba/game/_/gameId/401910686/mavericks-thunder",
 "location": "Paycom Center, Oklahoma City, OK"
 },
 {
@@ -554,7 +554,7 @@
 "start": "2027-03-10T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, DAZN MEM\nhttps://www.espn.com/nba/game/_/gameId/401910693/grizzlies-mavericks",
+"description": "Dallas Mavericks\nGrizzlies @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV, DAZN MEM\nhttps://www.espn.com/nba/game/_/gameId/401910693/grizzlies-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -563,7 +563,7 @@
 "start": "2027-03-12T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910710/wizards-mavericks",
+"description": "Dallas Mavericks\nWizards @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910710/wizards-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -572,7 +572,7 @@
 "start": "2027-03-14T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, GCSEN, Pelicans.com\nhttps://www.espn.com/nba/game/_/gameId/401910724/pelicans-mavericks",
+"description": "Dallas Mavericks\nPelicans @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV, GCSEN, Pelicans.com\nhttps://www.espn.com/nba/game/_/gameId/401910724/pelicans-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -581,7 +581,7 @@
 "start": "2027-03-16T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBCSN, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910738/hawks-mavericks",
+"description": "Dallas Mavericks\nHawks @ Mavericks (7-7)\nRegular Season\n📺 NBCSN, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910738/hawks-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -590,7 +590,7 @@
 "start": "2027-03-17T23:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 ESPN, KSBI, KFAA-TV, MavsTV, Thunder App\nhttps://www.espn.com/nba/game/_/gameId/401910751/mavericks-thunder",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Thunder\nRegular Season\n📺 ESPN, KSBI, KFAA-TV, MavsTV, Thunder App\nhttps://www.espn.com/nba/game/_/gameId/401910751/mavericks-thunder",
 "location": "Paycom Center, Oklahoma City, OK"
 },
 {
@@ -599,7 +599,7 @@
 "start": "2027-03-20T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910768/mavericks-spurs",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Spurs\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910768/mavericks-spurs",
 "location": "Frost Bank Center, San Antonio, TX"
 },
 {
@@ -608,7 +608,7 @@
 "start": "2027-03-22T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBC\nhttps://www.espn.com/nba/game/_/gameId/401910785/mavericks-lakers",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Lakers\nRegular Season\n📺 NBC\nhttps://www.espn.com/nba/game/_/gameId/401910785/mavericks-lakers",
 "location": "crypto.com Arena, Los Angeles, CA"
 },
 {
@@ -617,7 +617,7 @@
 "start": "2027-03-23T02:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 ClipperVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910793/mavericks-clippers",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Clippers\nRegular Season\n📺 ClipperVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910793/mavericks-clippers",
 "location": "Intuit Dome, Inglewood, CA"
 },
 {
@@ -626,7 +626,7 @@
 "start": "2027-03-25T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 DAZN MIN, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910806/mavericks-timberwolves",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Timberwolves\nRegular Season\n📺 DAZN MIN, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910806/mavericks-timberwolves",
 "location": "Target Center, Minneapolis, MN"
 },
 {
@@ -635,7 +635,7 @@
 "start": "2027-03-27T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, GCSEN, Pelicans.com\nhttps://www.espn.com/nba/game/_/gameId/401910819/pelicans-mavericks",
+"description": "Dallas Mavericks\nPelicans @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV, GCSEN, Pelicans.com\nhttps://www.espn.com/nba/game/_/gameId/401910819/pelicans-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -644,7 +644,7 @@
 "start": "2027-03-28T22:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 MNMT, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910835/mavericks-wizards",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Wizards\nRegular Season\n📺 MNMT, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910835/mavericks-wizards",
 "location": "Capital One Arena, Washington, DC"
 },
 {
@@ -653,7 +653,7 @@
 "start": "2027-03-30T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 MyMi, Bucks App, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910845/mavericks-bucks",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Bucks\nRegular Season\n📺 MyMi, Bucks App, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910845/mavericks-bucks",
 "location": "Fiserv Forum, Milwaukee, WI"
 },
 {
@@ -662,7 +662,7 @@
 "start": "2027-04-01T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 ESPN, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910862/nuggets-mavericks",
+"description": "Dallas Mavericks\nNuggets @ Mavericks (7-7)\nRegular Season\n📺 ESPN, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910862/nuggets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -671,7 +671,7 @@
 "start": "2027-04-03T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910873/kings-mavericks",
+"description": "Dallas Mavericks\nKings @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910873/kings-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -680,7 +680,7 @@
 "start": "2027-04-04T19:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV, DAZN MIN\nhttps://www.espn.com/nba/game/_/gameId/401910886/timberwolves-mavericks",
+"description": "Dallas Mavericks\nTimberwolves @ Mavericks (7-7)\nRegular Season\n📺 NBA TV, KFAA-TV, MavsTV, DAZN MIN\nhttps://www.espn.com/nba/game/_/gameId/401910886/timberwolves-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -689,7 +689,7 @@
 "start": "2027-04-07T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 Spectrum Sports Net, Spectrum Sports Net +, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910906/mavericks-lakers",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Lakers\nRegular Season\n📺 Spectrum Sports Net, Spectrum Sports Net +, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910906/mavericks-lakers",
 "location": "crypto.com Arena, Los Angeles, CA"
 },
 {
@@ -698,7 +698,7 @@
 "start": "2027-04-08T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KUNP 16, BlazerVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910917/mavericks-trail-blazers",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Trail Blazers\nRegular Season\n📺 KUNP 16, BlazerVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910917/mavericks-trail-blazers",
 "location": "Moda Center, Portland, OR"
 },
 {
@@ -707,7 +707,7 @@
 "start": "2027-04-10T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910936/mavericks-kings",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Kings\nRegular Season\n📺 KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910936/mavericks-kings",
 "location": "Golden 1 Center, Sacramento, CA"
 },
 {
@@ -716,7 +716,7 @@
 "start": "2027-04-12T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, DAZN MEM\nhttps://www.espn.com/nba/game/_/gameId/401910945/grizzlies-mavericks",
+"description": "Dallas Mavericks\nGrizzlies @ Mavericks (7-7)\nRegular Season\n📺 KFAA-TV, MavsTV, DAZN MEM\nhttps://www.espn.com/nba/game/_/gameId/401910945/grizzlies-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -725,7 +725,7 @@
 "start": "2025-10-23T01:47:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Spurs 125, Mavericks 92 (L)\nDallas Mavericks\nRegular Season\n📺 ESPN\nhttps://www.espn.com/nba/game/_/gameId/401809235/spurs-mavericks",
+"description": "Final: Spurs 125, Mavericks 92 (L)\nDallas Mavericks\nSpurs (0-0) @ Mavericks (0-0)\nRegular Season\n📺 ESPN\nhttps://www.espn.com/nba/game/_/gameId/401809235/spurs-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -734,7 +734,7 @@
 "start": "2025-10-25T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Wizards 117, Mavericks 107 (L)\nDallas Mavericks\nRegular Season\n📺 MNMT, NBA League Pass, KFAA-TV\nhttps://www.espn.com/nba/game/_/gameId/401809950/wizards-mavericks",
+"description": "Final: Wizards 117, Mavericks 107 (L)\nDallas Mavericks\nWizards (0-1) @ Mavericks (0-1)\nRegular Season\n📺 MNMT, NBA League Pass, KFAA-TV\nhttps://www.espn.com/nba/game/_/gameId/401809950/wizards-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -743,7 +743,7 @@
 "start": "2025-10-26T23:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Raptors 129, Mavericks 139 (W)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, Sportsnet, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809966/raptors-mavericks",
+"description": "Final: Raptors 129, Mavericks 139 (W)\nDallas Mavericks\nRaptors (1-1) @ Mavericks (0-2)\nRegular Season\n📺 KFAA-TV, MavsTV, Sportsnet, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809966/raptors-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -752,7 +752,7 @@
 "start": "2025-10-28T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Thunder 101, Mavericks 94 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN OK, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809974/thunder-mavericks",
+"description": "Final: Thunder 101, Mavericks 94 (L)\nDallas Mavericks\nThunder (3-0) @ Mavericks (1-2)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN OK, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809974/thunder-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -761,7 +761,7 @@
 "start": "2025-10-30T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Pacers 105, Mavericks 107 (W)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN IN, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809988/pacers-mavericks",
+"description": "Final: Pacers 105, Mavericks 107 (W)\nDallas Mavericks\nPacers (0-3) @ Mavericks (1-3)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN IN, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809988/pacers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -770,7 +770,7 @@
 "start": "2025-11-02T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 110, Pistons 122 (L)\nDallas Mavericks\nRegular Season · NBA Mexico City Game 2025\n📺 Peacock\nhttps://www.espn.com/nba/game/_/gameId/401810002/mavericks-pistons",
+"description": "Final: Mavericks 110, Pistons 122 (L)\nDallas Mavericks\nMavericks (2-3) vs Pistons (3-2)\nRegular Season · NBA Mexico City Game 2025\n📺 Peacock\nhttps://www.espn.com/nba/game/_/gameId/401810002/mavericks-pistons",
 "location": "Arena CDMX, Mexico City"
 },
 {
@@ -779,7 +779,7 @@
 "start": "2025-11-04T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 102, Rockets 110 (L)\nDallas Mavericks\nRegular Season\n📺 Space City Home Network, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810015/mavericks-rockets",
+"description": "Final: Mavericks 102, Rockets 110 (L)\nDallas Mavericks\nMavericks (2-4) @ Rockets (3-2)\nRegular Season\n📺 Space City Home Network, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810015/mavericks-rockets",
 "location": "Toyota Center (Houston)"
 },
 {
@@ -788,7 +788,7 @@
 "start": "2025-11-06T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Pelicans 101, Mavericks 99 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, GCSEN, Pelicans.com, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810032/pelicans-mavericks",
+"description": "Final: Pelicans 101, Mavericks 99 (L)\nDallas Mavericks\nPelicans (1-6) @ Mavericks (2-5)\nRegular Season\n📺 KFAA-TV, MavsTV, GCSEN, Pelicans.com, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810032/pelicans-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -797,7 +797,7 @@
 "start": "2025-11-08T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 104, Grizzlies 118 (L)\nDallas Mavericks\nRegular Season · NBA Cup - Group Play\n📺 FanDuel SN SE, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809776/mavericks-grizzlies",
+"description": "Final: Mavericks 104, Grizzlies 118 (L)\nDallas Mavericks\nMavericks (2-6) @ Grizzlies (3-6)\nRegular Season · NBA Cup - Group Play\n📺 FanDuel SN SE, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809776/mavericks-grizzlies",
 "location": "FedExForum, Memphis, TN"
 },
 {
@@ -806,7 +806,7 @@
 "start": "2025-11-09T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 111, Wizards 105 (W)\nDallas Mavericks\nRegular Season\n📺 MNMT, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810038/mavericks-wizards",
+"description": "Final: Mavericks 111, Wizards 105 (W)\nDallas Mavericks\nMavericks (2-7) @ Wizards (1-8)\nRegular Season\n📺 MNMT, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810038/mavericks-wizards",
 "location": "Capital One Arena, Washington, DC"
 },
 {
@@ -815,7 +815,7 @@
 "start": "2025-11-11T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Bucks 116, Mavericks 114 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN WI, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810058/bucks-mavericks",
+"description": "Final: Bucks 116, Mavericks 114 (L)\nDallas Mavericks\nBucks (6-4) @ Mavericks (3-7)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN WI, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810058/bucks-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -824,7 +824,7 @@
 "start": "2025-11-13T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Suns 123, Mavericks 114 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, Arizona's Family 3TV, Suns Live, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810076/suns-mavericks",
+"description": "Final: Suns 123, Mavericks 114 (L)\nDallas Mavericks\nSuns (6-5) @ Mavericks (3-8)\nRegular Season\n📺 KFAA-TV, MavsTV, Arizona's Family 3TV, Suns Live, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810076/suns-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -833,7 +833,7 @@
 "start": "2025-11-15T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Clippers 133, Mavericks 127 (L)\nDallas Mavericks\nRegular Season · NBA Cup - Group Play\n📺 KFAA-TV, MavsTV, FanDuel SN SoCal, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809788/clippers-mavericks",
+"description": "Final: Clippers 133, Mavericks 127 (L)\nDallas Mavericks\nClippers (3-8) @ Mavericks (3-9)\nRegular Season · NBA Cup - Group Play\n📺 KFAA-TV, MavsTV, FanDuel SN SoCal, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809788/clippers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -842,7 +842,7 @@
 "start": "2025-11-17T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Trail Blazers 133, Mavericks 138 (W)\nDallas Mavericks\nRegular Season\n📺 BlazerVision, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810093/trail-blazers-mavericks",
+"description": "Final: Trail Blazers 133, Mavericks 138 (W)\nDallas Mavericks\nTrail Blazers (6-6) @ Mavericks (3-10)\nRegular Season\n📺 BlazerVision, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810093/trail-blazers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -851,7 +851,7 @@
 "start": "2025-11-18T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 96, Timberwolves 120 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN North, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810101/mavericks-timberwolves",
+"description": "Final: Mavericks 96, Timberwolves 120 (L)\nDallas Mavericks\nMavericks (4-10) @ Timberwolves (8-5)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN North, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810101/mavericks-timberwolves",
 "location": "Target Center, Minneapolis, MN"
 },
 {
@@ -860,7 +860,7 @@
 "start": "2025-11-20T02:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Knicks 113, Mavericks 111 (L)\nDallas Mavericks\nRegular Season\n📺 ESPN, DAZN (MSG)\nhttps://www.espn.com/nba/game/_/gameId/401810117/knicks-mavericks",
+"description": "Final: Knicks 113, Mavericks 111 (L)\nDallas Mavericks\nKnicks (8-5) @ Mavericks (4-11)\nRegular Season\n📺 ESPN, DAZN (MSG)\nhttps://www.espn.com/nba/game/_/gameId/401810117/knicks-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -869,7 +869,7 @@
 "start": "2025-11-22T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Pelicans 115, Mavericks 118 (W)\nDallas Mavericks\nRegular Season · NBA Cup - Group Play\n📺 KFAA-TV, MavsTV, GCSEN, Pelicans.com, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809794/pelicans-mavericks",
+"description": "Final: Pelicans 115, Mavericks 118 (W)\nDallas Mavericks\nPelicans (2-13) @ Mavericks (4-12)\nRegular Season · NBA Cup - Group Play\n📺 KFAA-TV, MavsTV, GCSEN, Pelicans.com, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401809794/pelicans-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -878,7 +878,7 @@
 "start": "2025-11-23T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Grizzlies 102, Mavericks 96 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SE, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810128/grizzlies-mavericks",
+"description": "Final: Grizzlies 102, Mavericks 96 (L)\nDallas Mavericks\nGrizzlies (5-11) @ Mavericks (5-12)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SE, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810128/grizzlies-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -887,7 +887,7 @@
 "start": "2025-11-25T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 102, Heat 106 (L)\nDallas Mavericks\nRegular Season\n📺 FanDuel SN Sun, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810141/mavericks-heat",
+"description": "Final: Mavericks 102, Heat 106 (L)\nDallas Mavericks\nMavericks (5-13) @ Heat (11-6)\nRegular Season\n📺 FanDuel SN Sun, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810141/mavericks-heat",
 "location": "Kaseya Center, Miami, FL"
 },
 {
@@ -896,7 +896,7 @@
 "start": "2025-11-29T03:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 119, Lakers 129 (L)\nDallas Mavericks\nRegular Season · NBA Cup - Group Play\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401809820/mavericks-lakers",
+"description": "Final: Mavericks 119, Lakers 129 (L)\nDallas Mavericks\nMavericks (5-14) @ Lakers (13-4)\nRegular Season · NBA Cup - Group Play\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401809820/mavericks-lakers",
 "location": "crypto.com Arena, Los Angeles, CA"
 },
 {
@@ -905,7 +905,7 @@
 "start": "2025-11-30T03:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 114, Clippers 110 (W)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SoCal, NBA G League TV on Tubi\nhttps://www.espn.com/nba/game/_/gameId/401810155/mavericks-clippers",
+"description": "Final: Mavericks 114, Clippers 110 (W)\nDallas Mavericks\nMavericks (5-15) @ Clippers (5-14)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SoCal, NBA G League TV on Tubi\nhttps://www.espn.com/nba/game/_/gameId/401810155/mavericks-clippers",
 "location": "Intuit Dome, Inglewood, CA"
 },
 {
@@ -914,7 +914,7 @@
 "start": "2025-12-02T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 131, Nuggets 121 (W)\nDallas Mavericks\nRegular Season\n📺 Altitude Sports, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810170/mavericks-nuggets",
+"description": "Final: Mavericks 131, Nuggets 121 (W)\nDallas Mavericks\nMavericks (6-15) @ Nuggets (14-5)\nRegular Season\n📺 Altitude Sports, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810170/mavericks-nuggets",
 "location": "Ball Arena, Denver, CO"
 },
 {
@@ -923,7 +923,7 @@
 "start": "2025-12-04T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Heat 108, Mavericks 118 (W)\nDallas Mavericks\nRegular Season\n📺 FanDuel SN Sun, KFAA-TV, MavsTV, NBA TV\nhttps://www.espn.com/nba/game/_/gameId/401810187/heat-mavericks",
+"description": "Final: Heat 108, Mavericks 118 (W)\nDallas Mavericks\nHeat (14-7) @ Mavericks (7-15)\nRegular Season\n📺 FanDuel SN Sun, KFAA-TV, MavsTV, NBA TV\nhttps://www.espn.com/nba/game/_/gameId/401810187/heat-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -932,7 +932,7 @@
 "start": "2025-12-06T02:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 111, Thunder 132 (L)\nDallas Mavericks\nRegular Season\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401810204/mavericks-thunder",
+"description": "Final: Mavericks 111, Thunder 132 (L)\nDallas Mavericks\nMavericks (8-15) @ Thunder (21-1)\nRegular Season\n📺 Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401810204/mavericks-thunder",
 "location": "Paycom Center, Oklahoma City, OK"
 },
 {
@@ -941,7 +941,7 @@
 "start": "2025-12-07T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Rockets 109, Mavericks 122 (W)\nDallas Mavericks\nRegular Season\n📺 Space City Home Network, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810211/rockets-mavericks",
+"description": "Final: Rockets 109, Mavericks 122 (W)\nDallas Mavericks\nRockets (15-5) @ Mavericks (8-16)\nRegular Season\n📺 Space City Home Network, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810211/rockets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -950,7 +950,7 @@
 "start": "2025-12-13T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Nets 111, Mavericks 119 (W)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, DAZN (YES)\nhttps://www.espn.com/nba/game/_/gameId/401836795/nets-mavericks",
+"description": "Final: Nets 111, Mavericks 119 (W)\nDallas Mavericks\nNets (6-17) @ Mavericks (9-16)\nRegular Season\n📺 KFAA-TV, DAZN (YES)\nhttps://www.espn.com/nba/game/_/gameId/401836795/nets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -959,7 +959,7 @@
 "start": "2025-12-16T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 133, Jazz 140 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, KJZZ-TV\nhttps://www.espn.com/nba/game/_/gameId/401836805/mavericks-jazz",
+"description": "Final: Mavericks 133, Jazz 140 (L)\nDallas Mavericks\nMavericks (10-16) @ Jazz (9-15)\nRegular Season\n📺 KFAA-TV, KJZZ-TV\nhttps://www.espn.com/nba/game/_/gameId/401836805/mavericks-jazz",
 "location": "Delta Center, Salt Lake City, UT"
 },
 {
@@ -968,7 +968,7 @@
 "start": "2025-12-19T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Pistons 114, Mavericks 116 (W)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN DET, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810231/pistons-mavericks",
+"description": "Final: Pistons 114, Mavericks 116 (W)\nDallas Mavericks\nPistons (21-5) @ Mavericks (10-17)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN DET, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810231/pistons-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -977,7 +977,7 @@
 "start": "2025-12-21T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 114, 76ers 121 (L)\nDallas Mavericks\nRegular Season\n📺 NBC Sports Phil, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810242/mavericks-76ers",
+"description": "Final: Mavericks 114, 76ers 121 (L)\nDallas Mavericks\nMavericks (11-17) @ 76ers (15-11)\nRegular Season\n📺 NBC Sports Phil, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810242/mavericks-76ers",
 "location": "Xfinity Mobile Arena, Philadelphia, PA"
 },
 {
@@ -986,7 +986,7 @@
 "start": "2025-12-23T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 113, Pelicans 119 (L)\nDallas Mavericks\nRegular Season\n📺 GCSEN, Pelicans.com, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810259/mavericks-pelicans",
+"description": "Final: Mavericks 113, Pelicans 119 (L)\nDallas Mavericks\nMavericks (11-18) @ Pelicans (7-22)\nRegular Season\n📺 GCSEN, Pelicans.com, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810259/mavericks-pelicans",
 "location": "Smoothie King Center, New Orleans, LA"
 },
 {
@@ -995,7 +995,7 @@
 "start": "2025-12-24T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Nuggets 130, Mavericks 131 (W)\nDallas Mavericks\nRegular Season\n📺 NBC, Peacock\nhttps://www.espn.com/nba/game/_/gameId/401810270/nuggets-mavericks",
+"description": "Final: Nuggets 130, Mavericks 131 (W)\nDallas Mavericks\nNuggets (21-7) @ Mavericks (11-19)\nRegular Season\n📺 NBC, Peacock\nhttps://www.espn.com/nba/game/_/gameId/401810270/nuggets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1004,7 +1004,7 @@
 "start": "2025-12-25T22:17:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 116, Warriors 126 (L)\nDallas Mavericks\nRegular Season\n📺 ABC, ESPN\nhttps://www.espn.com/nba/game/_/gameId/401809240/mavericks-warriors",
+"description": "Final: Mavericks 116, Warriors 126 (L)\nDallas Mavericks\nMavericks (12-19) @ Warriors (15-15)\nRegular Season\n📺 ABC, ESPN\nhttps://www.espn.com/nba/game/_/gameId/401809240/mavericks-warriors",
 "location": "Chase Center, San Francisco, CA"
 },
 {
@@ -1013,7 +1013,7 @@
 "start": "2025-12-27T22:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 107, Kings 113 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, NBC Sports CA, NBA TV\nhttps://www.espn.com/nba/game/_/gameId/401810287/mavericks-kings",
+"description": "Final: Mavericks 107, Kings 113 (L)\nDallas Mavericks\nMavericks (12-20) @ Kings (7-23)\nRegular Season\n📺 KFAA-TV, MavsTV, NBC Sports CA, NBA TV\nhttps://www.espn.com/nba/game/_/gameId/401810287/mavericks-kings",
 "location": "Golden 1 Center, Sacramento, CA"
 },
 {
@@ -1022,7 +1022,7 @@
 "start": "2025-12-30T03:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 122, Trail Blazers 125 (L)\nDallas Mavericks\nRegular Season\n📺 NBC, Peacock\nhttps://www.espn.com/nba/game/_/gameId/401810312/mavericks-trail-blazers",
+"description": "Final: Mavericks 122, Trail Blazers 125 (L)\nDallas Mavericks\nMavericks (12-21) @ Trail Blazers (13-19)\nRegular Season\n📺 NBC, Peacock\nhttps://www.espn.com/nba/game/_/gameId/401810312/mavericks-trail-blazers",
 "location": "Moda Center, Portland, OR"
 },
 {
@@ -1031,7 +1031,7 @@
 "start": "2026-01-02T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: 76ers 123, Mavericks 108 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, NBC Sports Phil, NBA League Pass, NBA TV\nhttps://www.espn.com/nba/game/_/gameId/401810328/76ers-mavericks",
+"description": "Final: 76ers 123, Mavericks 108 (L)\nDallas Mavericks\n76ers (17-14) @ Mavericks (12-22)\nRegular Season\n📺 KFAA-TV, MavsTV, NBC Sports Phil, NBA League Pass, NBA TV\nhttps://www.espn.com/nba/game/_/gameId/401810328/76ers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1040,7 +1040,7 @@
 "start": "2026-01-04T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Rockets 104, Mavericks 110 (W)\nDallas Mavericks\nRegular Season\n📺 Space City Home Network, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810346/rockets-mavericks",
+"description": "Final: Rockets 104, Mavericks 110 (W)\nDallas Mavericks\nRockets (21-10) @ Mavericks (12-23)\nRegular Season\n📺 Space City Home Network, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810346/rockets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1049,7 +1049,7 @@
 "start": "2026-01-07T04:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 100, Kings 98 (W)\nDallas Mavericks\nRegular Season\n📺 NBC, Peacock, KFAA-TV\nhttps://www.espn.com/nba/game/_/gameId/401810370/mavericks-kings",
+"description": "Final: Mavericks 100, Kings 98 (W)\nDallas Mavericks\nMavericks (13-23) @ Kings (8-28)\nRegular Season\n📺 NBC, Peacock, KFAA-TV\nhttps://www.espn.com/nba/game/_/gameId/401810370/mavericks-kings",
 "location": "Golden 1 Center, Sacramento, CA"
 },
 {
@@ -1058,7 +1058,7 @@
 "start": "2026-01-09T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 114, Jazz 116 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, KJZZ-TV, Jazz+, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810386/mavericks-jazz",
+"description": "Final: Mavericks 114, Jazz 116 (L)\nDallas Mavericks\nMavericks (14-23) @ Jazz (12-24)\nRegular Season\n📺 KFAA-TV, MavsTV, KJZZ-TV, Jazz+, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810386/mavericks-jazz",
 "location": "Delta Center, Salt Lake City, UT"
 },
 {
@@ -1067,7 +1067,7 @@
 "start": "2026-01-11T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 107, Bulls 125 (L)\nDallas Mavericks\nRegular Season\n📺 CHSN+, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810401/mavericks-bulls",
+"description": "Final: Mavericks 107, Bulls 125 (L)\nDallas Mavericks\nMavericks (14-24) @ Bulls (17-20)\nRegular Season\n📺 CHSN+, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810401/mavericks-bulls",
 "location": "United Center, Chicago, IL"
 },
 {
@@ -1076,7 +1076,7 @@
 "start": "2026-01-13T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Nets 105, Mavericks 113 (W)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, YES, NBA League Pass, DAZN (YES)\nhttps://www.espn.com/nba/game/_/gameId/401810416/nets-mavericks",
+"description": "Final: Nets 105, Mavericks 113 (W)\nDallas Mavericks\nNets (11-25) @ Mavericks (14-25)\nRegular Season\n📺 KFAA-TV, MavsTV, YES, NBA League Pass, DAZN (YES)\nhttps://www.espn.com/nba/game/_/gameId/401810416/nets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1085,7 +1085,7 @@
 "start": "2026-01-15T02:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Nuggets 118, Mavericks 109 (L)\nDallas Mavericks\nRegular Season\n📺 ESPN, KFAA-TV, Altitude Sports\nhttps://www.espn.com/nba/game/_/gameId/401810430/nuggets-mavericks",
+"description": "Final: Nuggets 118, Mavericks 109 (L)\nDallas Mavericks\nNuggets (27-13) @ Mavericks (15-25)\nRegular Season\n📺 ESPN, KFAA-TV, Altitude Sports\nhttps://www.espn.com/nba/game/_/gameId/401810430/nuggets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1094,7 +1094,7 @@
 "start": "2026-01-16T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Jazz 122, Mavericks 144 (W)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, KJZZ-TV, Jazz+, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810438/jazz-mavericks",
+"description": "Final: Jazz 122, Mavericks 144 (W)\nDallas Mavericks\nJazz (14-26) @ Mavericks (15-26)\nRegular Season\n📺 KFAA-TV, MavsTV, KJZZ-TV, Jazz+, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810438/jazz-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1103,7 +1103,7 @@
 "start": "2026-01-17T22:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Jazz 120, Mavericks 138 (W)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, KJZZ-TV, Jazz+, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810448/jazz-mavericks",
+"description": "Final: Jazz 120, Mavericks 138 (W)\nDallas Mavericks\nJazz (14-27) @ Mavericks (16-26)\nRegular Season\n📺 KFAA-TV, MavsTV, KJZZ-TV, Jazz+, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810448/jazz-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1112,7 +1112,7 @@
 "start": "2026-01-19T22:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 114, Knicks 97 (W)\nDallas Mavericks\nRegular Season\n📺 NBC, Peacock, KFAA-TV, DAZN (MSG)\nhttps://www.espn.com/nba/game/_/gameId/401809249/mavericks-knicks",
+"description": "Final: Mavericks 114, Knicks 97 (W)\nDallas Mavericks\nMavericks (17-26) @ Knicks (25-17)\nRegular Season\n📺 NBC, Peacock, KFAA-TV, DAZN (MSG)\nhttps://www.espn.com/nba/game/_/gameId/401809249/mavericks-knicks",
 "location": "Madison Square Garden, New York, NY"
 },
 {
@@ -1121,7 +1121,7 @@
 "start": "2026-01-23T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Warriors 115, Mavericks 123 (W)\nDallas Mavericks\nRegular Season\n📺 Prime Video, NBC Sports BA, ERADM\nhttps://www.espn.com/nba/game/_/gameId/401810485/warriors-mavericks",
+"description": "Final: Warriors 115, Mavericks 123 (W)\nDallas Mavericks\nWarriors (25-20) @ Mavericks (18-26)\nRegular Season\n📺 Prime Video, NBC Sports BA, ERADM\nhttps://www.espn.com/nba/game/_/gameId/401810485/warriors-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1130,7 +1130,7 @@
 "start": "2026-01-25T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Lakers 116, Mavericks 110 (L)\nDallas Mavericks\nRegular Season\n📺 ABC, ERADM\nhttps://www.espn.com/nba/game/_/gameId/401810503/lakers-mavericks",
+"description": "Final: Lakers 116, Mavericks 110 (L)\nDallas Mavericks\nLakers (26-17) @ Mavericks (19-26)\nRegular Season\n📺 ABC, ERADM\nhttps://www.espn.com/nba/game/_/gameId/401810503/lakers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1139,7 +1139,7 @@
 "start": "2026-01-26T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Dallas Mavericks\nRegular Season · Makeup date Mar 31\n📺 FanDuel SN WI, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401810507/mavericks-bucks",
+"description": "Dallas Mavericks\nMavericks (7-7) @ Bucks\nRegular Season · Makeup date Mar 31\n📺 FanDuel SN WI, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401810507/mavericks-bucks",
 "location": "Fiserv Forum, Milwaukee, WI"
 },
 {
@@ -1148,7 +1148,7 @@
 "start": "2026-01-29T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Timberwolves 118, Mavericks 105 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN North, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810532/timberwolves-mavericks",
+"description": "Final: Timberwolves 118, Mavericks 105 (L)\nDallas Mavericks\nTimberwolves (28-19) @ Mavericks (19-27)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN North, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810532/timberwolves-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1157,7 +1157,7 @@
 "start": "2026-01-30T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Hornets 123, Mavericks 121 (L)\nDallas Mavericks\nRegular Season\n📺 FanDuel SN SE, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810538/hornets-mavericks",
+"description": "Final: Hornets 123, Mavericks 121 (L)\nDallas Mavericks\nHornets (20-28) @ Mavericks (19-28)\nRegular Season\n📺 FanDuel SN SE, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810538/hornets-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1166,7 +1166,7 @@
 "start": "2026-02-01T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 107, Rockets 111 (L)\nDallas Mavericks\nRegular Season\n📺 ABC, ERADM\nhttps://www.espn.com/nba/game/_/gameId/401810556/mavericks-rockets",
+"description": "Final: Mavericks 107, Rockets 111 (L)\nDallas Mavericks\nMavericks (19-29) @ Rockets (29-17)\nRegular Season\n📺 ABC, ERADM\nhttps://www.espn.com/nba/game/_/gameId/401810556/mavericks-rockets",
 "location": "Toyota Center (Houston)"
 },
 {
@@ -1175,7 +1175,7 @@
 "start": "2026-02-04T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Celtics 110, Mavericks 100 (L)\nDallas Mavericks\nRegular Season\n📺 NBC, Peacock, KFAA-TV, NBC Sports BO\nhttps://www.espn.com/nba/game/_/gameId/401810576/celtics-mavericks",
+"description": "Final: Celtics 110, Mavericks 100 (L)\nDallas Mavericks\nCeltics (31-18) @ Mavericks (19-30)\nRegular Season\n📺 NBC, Peacock, KFAA-TV, NBC Sports BO\nhttps://www.espn.com/nba/game/_/gameId/401810576/celtics-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1184,7 +1184,7 @@
 "start": "2026-02-06T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Spurs 135, Mavericks 123 (L)\nDallas Mavericks\nRegular Season\n📺 NBA League Pass, KFAA-TV, MavsTV, KENS 5\nhttps://www.espn.com/nba/game/_/gameId/401810593/spurs-mavericks",
+"description": "Final: Spurs 135, Mavericks 123 (L)\nDallas Mavericks\nSpurs (34-16) @ Mavericks (19-31)\nRegular Season\n📺 NBA League Pass, KFAA-TV, MavsTV, KENS 5\nhttps://www.espn.com/nba/game/_/gameId/401810593/spurs-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1193,7 +1193,7 @@
 "start": "2026-02-07T23:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 125, Spurs 138 (L)\nDallas Mavericks\nRegular Season\n📺 Prime Video, KFAA-TV, FanDuel SN SW\nhttps://www.espn.com/nba/game/_/gameId/401810604/mavericks-spurs",
+"description": "Final: Mavericks 125, Spurs 138 (L)\nDallas Mavericks\nMavericks (19-32) @ Spurs (35-16)\nRegular Season\n📺 Prime Video, KFAA-TV, FanDuel SN SW\nhttps://www.espn.com/nba/game/_/gameId/401810604/mavericks-spurs",
 "location": "Frost Bank Center, San Antonio, TX"
 },
 {
@@ -1202,7 +1202,7 @@
 "start": "2026-02-11T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 111, Suns 120 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, Arizona's Family 3TV, Suns Live, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810628/mavericks-suns",
+"description": "Final: Mavericks 111, Suns 120 (L)\nDallas Mavericks\nMavericks (19-33) @ Suns (31-22)\nRegular Season\n📺 KFAA-TV, MavsTV, Arizona's Family 3TV, Suns Live, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810628/mavericks-suns",
 "location": "Mortgage Matchup Center, Phoenix, AZ"
 },
 {
@@ -1211,7 +1211,7 @@
 "start": "2026-02-13T03:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 104, Lakers 124 (L)\nDallas Mavericks\nRegular Season\n📺 Prime Video, Spectrum Sports Net\nhttps://www.espn.com/nba/game/_/gameId/401810646/mavericks-lakers",
+"description": "Final: Mavericks 104, Lakers 124 (L)\nDallas Mavericks\nMavericks (19-34) @ Lakers (32-21)\nRegular Season\n📺 Prime Video, Spectrum Sports Net\nhttps://www.espn.com/nba/game/_/gameId/401810646/mavericks-lakers",
 "location": "crypto.com Arena, Los Angeles, CA"
 },
 {
@@ -1220,7 +1220,7 @@
 "start": "2026-02-21T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 111, Timberwolves 122 (L)\nDallas Mavericks\nRegular Season\n📺 ESPN, KFAA-TV, FanDuel SN North\nhttps://www.espn.com/nba/game/_/gameId/401810661/mavericks-timberwolves",
+"description": "Final: Mavericks 111, Timberwolves 122 (L)\nDallas Mavericks\nMavericks (19-35) @ Timberwolves (34-22)\nRegular Season\n📺 ESPN, KFAA-TV, FanDuel SN North\nhttps://www.espn.com/nba/game/_/gameId/401810661/mavericks-timberwolves",
 "location": "Target Center, Minneapolis, MN"
 },
 {
@@ -1229,7 +1229,7 @@
 "start": "2026-02-22T22:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 134, Pacers 130 (W)\nDallas Mavericks\nRegular Season\n📺 FanDuel SN IN, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810676/mavericks-pacers",
+"description": "Final: Mavericks 134, Pacers 130 (W)\nDallas Mavericks\nMavericks (19-36) @ Pacers (15-42)\nRegular Season\n📺 FanDuel SN IN, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810676/mavericks-pacers",
 "location": "Gainbridge Fieldhouse, Indianapolis, IN"
 },
 {
@@ -1238,7 +1238,7 @@
 "start": "2026-02-25T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 123, Nets 114 (W)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, YES, NBA League Pass, DAZN (YES)\nhttps://www.espn.com/nba/game/_/gameId/401810688/mavericks-nets",
+"description": "Final: Mavericks 123, Nets 114 (W)\nDallas Mavericks\nMavericks (20-36) @ Nets (15-41)\nRegular Season\n📺 KFAA-TV, MavsTV, YES, NBA League Pass, DAZN (YES)\nhttps://www.espn.com/nba/game/_/gameId/401810688/mavericks-nets",
 "location": "Barclays Center, Brooklyn, NY"
 },
 {
@@ -1247,7 +1247,7 @@
 "start": "2026-02-27T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Kings 130, Mavericks 121 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, NBC Sports CA, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810709/kings-mavericks",
+"description": "Final: Kings 130, Mavericks 121 (L)\nDallas Mavericks\nKings (13-47) @ Mavericks (21-36)\nRegular Season\n📺 KFAA-TV, MavsTV, NBC Sports CA, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810709/kings-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1256,7 +1256,7 @@
 "start": "2026-02-28T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Grizzlies 124, Mavericks 105 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SE, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810716/grizzlies-mavericks",
+"description": "Final: Grizzlies 124, Mavericks 105 (L)\nDallas Mavericks\nGrizzlies (21-36) @ Mavericks (21-37)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SE, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810716/grizzlies-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1265,7 +1265,7 @@
 "start": "2026-03-02T01:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Thunder 100, Mavericks 87 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN OK, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810731/thunder-mavericks",
+"description": "Final: Thunder 100, Mavericks 87 (L)\nDallas Mavericks\nThunder (46-15) @ Mavericks (21-38)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN OK, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810731/thunder-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1274,7 +1274,7 @@
 "start": "2026-03-04T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 90, Hornets 117 (L)\nDallas Mavericks\nRegular Season\n📺 FanDuel SN SE, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810738/mavericks-hornets",
+"description": "Final: Mavericks 90, Hornets 117 (L)\nDallas Mavericks\nMavericks (21-39) @ Hornets (30-31)\nRegular Season\n📺 FanDuel SN SE, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810738/mavericks-hornets",
 "location": "Spectrum Center, Charlotte, NC"
 },
 {
@@ -1283,7 +1283,7 @@
 "start": "2026-03-06T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 114, Magic 115 (L)\nDallas Mavericks\nRegular Season\n📺 FanDuel SN FL, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810754/mavericks-magic",
+"description": "Final: Mavericks 114, Magic 115 (L)\nDallas Mavericks\nMavericks (21-40) @ Magic (32-28)\nRegular Season\n📺 FanDuel SN FL, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810754/mavericks-magic",
 "location": "Kia Center, Orlando, FL"
 },
 {
@@ -1292,7 +1292,7 @@
 "start": "2026-03-07T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 100, Celtics 120 (L)\nDallas Mavericks\nRegular Season\n📺 ESPN, NBC Sports BO, KFAA-TV\nhttps://www.espn.com/nba/game/_/gameId/401810763/mavericks-celtics",
+"description": "Final: Mavericks 100, Celtics 120 (L)\nDallas Mavericks\nMavericks (21-41) @ Celtics (41-21)\nRegular Season\n📺 ESPN, NBC Sports BO, KFAA-TV\nhttps://www.espn.com/nba/game/_/gameId/401810763/mavericks-celtics",
 "location": "TD Garden, Boston, MA"
 },
 {
@@ -1301,7 +1301,7 @@
 "start": "2026-03-08T22:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 92, Raptors 122 (L)\nDallas Mavericks\nRegular Season\n📺 Sportsnet, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810779/mavericks-raptors",
+"description": "Final: Mavericks 92, Raptors 122 (L)\nDallas Mavericks\nMavericks (21-42) @ Raptors (35-27)\nRegular Season\n📺 Sportsnet, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810779/mavericks-raptors",
 "location": "Scotiabank Arena, Toronto, ON"
 },
 {
@@ -1310,7 +1310,7 @@
 "start": "2026-03-10T23:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 112, Hawks 124 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SE, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810794/mavericks-hawks",
+"description": "Final: Mavericks 112, Hawks 124 (L)\nDallas Mavericks\nMavericks (21-43) @ Hawks (33-31)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SE, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810794/mavericks-hawks",
 "location": "State Farm Arena, Atlanta, GA"
 },
 {
@@ -1319,7 +1319,7 @@
 "start": "2026-03-13T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 120, Grizzlies 112 (W)\nDallas Mavericks\nRegular Season\n📺 FanDuel SN SE, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810966/mavericks-grizzlies",
+"description": "Final: Mavericks 120, Grizzlies 112 (W)\nDallas Mavericks\nMavericks (21-44) @ Grizzlies (23-41)\nRegular Season\n📺 FanDuel SN SE, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810966/mavericks-grizzlies",
 "location": "FedExForum, Memphis, TN"
 },
 {
@@ -1328,7 +1328,7 @@
 "start": "2026-03-13T23:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Cavaliers 138, Mavericks 105 (L)\nDallas Mavericks\nRegular Season\n📺 Prime Video, FanDuel SN OH, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401810820/cavaliers-mavericks",
+"description": "Final: Cavaliers 138, Mavericks 105 (L)\nDallas Mavericks\nCavaliers (40-26) @ Mavericks (22-44)\nRegular Season\n📺 Prime Video, FanDuel SN OH, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401810820/cavaliers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1337,7 +1337,7 @@
 "start": "2026-03-15T19:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 130, Cavaliers 120 (W)\nDallas Mavericks\nRegular Season\n📺 FanDuel SN OH, KFAA-TV, MavsTV, NBA TV\nhttps://www.espn.com/nba/game/_/gameId/401810832/mavericks-cavaliers",
+"description": "Final: Mavericks 130, Cavaliers 120 (W)\nDallas Mavericks\nMavericks (22-45) @ Cavaliers (41-26)\nRegular Season\n📺 FanDuel SN OH, KFAA-TV, MavsTV, NBA TV\nhttps://www.espn.com/nba/game/_/gameId/401810832/mavericks-cavaliers",
 "location": "Rocket Arena, Cleveland, OH"
 },
 {
@@ -1346,7 +1346,7 @@
 "start": "2026-03-17T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 111, Pelicans 129 (L)\nDallas Mavericks\nRegular Season\n📺 GCSEN, Pelicans.com, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810843/mavericks-pelicans",
+"description": "Final: Mavericks 111, Pelicans 129 (L)\nDallas Mavericks\nMavericks (23-45) @ Pelicans (22-46)\nRegular Season\n📺 GCSEN, Pelicans.com, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810843/mavericks-pelicans",
 "location": "Smoothie King Center, New Orleans, LA"
 },
 {
@@ -1355,7 +1355,7 @@
 "start": "2026-03-19T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Hawks 135, Mavericks 120 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SE, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810861/hawks-mavericks",
+"description": "Final: Hawks 135, Mavericks 120 (L)\nDallas Mavericks\nHawks (37-31) @ Mavericks (23-46)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SE, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810861/hawks-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1364,7 +1364,7 @@
 "start": "2026-03-22T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Clippers 138, Mavericks 131 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SoCal, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810884/clippers-mavericks",
+"description": "Final: Clippers 138, Mavericks 131 (L)\nDallas Mavericks\nClippers (34-36) @ Mavericks (23-47)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SoCal, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810884/clippers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1373,7 +1373,7 @@
 "start": "2026-03-24T01:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Warriors 137, Mavericks 131 (L)\nDallas Mavericks\nRegular Season\n📺 Peacock, NBC Sports BA, NBCSN\nhttps://www.espn.com/nba/game/_/gameId/401810899/warriors-mavericks",
+"description": "Final: Warriors 137, Mavericks 131 (L)\nDallas Mavericks\nWarriors (33-38) @ Mavericks (23-48)\nRegular Season\n📺 Peacock, NBC Sports BA, NBCSN\nhttps://www.espn.com/nba/game/_/gameId/401810899/warriors-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1382,7 +1382,7 @@
 "start": "2026-03-26T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 135, Nuggets 142 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, Altitude Sports, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810914/mavericks-nuggets",
+"description": "Final: Mavericks 135, Nuggets 142 (L)\nDallas Mavericks\nMavericks (23-49) @ Nuggets (45-28)\nRegular Season\n📺 KFAA-TV, MavsTV, Altitude Sports, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810914/mavericks-nuggets",
 "location": "Ball Arena, Denver, CO"
 },
 {
@@ -1391,7 +1391,7 @@
 "start": "2026-03-28T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 100, Trail Blazers 93 (W)\nDallas Mavericks\nRegular Season\n📺 NBA TV, KUNP 16, BlazerVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401810929/mavericks-trail-blazers",
+"description": "Final: Mavericks 100, Trail Blazers 93 (W)\nDallas Mavericks\nMavericks (23-50) @ Trail Blazers (37-37)\nRegular Season\n📺 NBA TV, KUNP 16, BlazerVision, KFAA-TV, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401810929/mavericks-trail-blazers",
 "location": "Moda Center, Portland, OR"
 },
 {
@@ -1400,7 +1400,7 @@
 "start": "2026-03-31T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Timberwolves 124, Mavericks 94 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN North, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810950/timberwolves-mavericks",
+"description": "Final: Timberwolves 124, Mavericks 94 (L)\nDallas Mavericks\nTimberwolves (45-29) @ Mavericks (24-50)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN North, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810950/timberwolves-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1409,7 +1409,7 @@
 "start": "2026-04-01T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 99, Bucks 123 (L)\nDallas Mavericks\nRegular Season · Makeup from Jan 25\n📺 FanDuel SN WI, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401858694/mavericks-bucks",
+"description": "Final: Mavericks 99, Bucks 123 (L)\nDallas Mavericks\nMavericks (24-51) @ Bucks (29-45)\nRegular Season · Makeup from Jan 25\n📺 FanDuel SN WI, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401858694/mavericks-bucks",
 "location": "Fiserv Forum, Milwaukee, WI"
 },
 {
@@ -1418,7 +1418,7 @@
 "start": "2026-04-04T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Magic 138, Mavericks 127 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN FL, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810982/magic-mavericks",
+"description": "Final: Magic 138, Mavericks 127 (L)\nDallas Mavericks\nMagic (40-36) @ Mavericks (24-52)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN FL, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401810982/magic-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1427,7 +1427,7 @@
 "start": "2026-04-05T23:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Lakers 128, Mavericks 134 (W)\nDallas Mavericks\nRegular Season\n📺 NBC, Peacock\nhttps://www.espn.com/nba/game/_/gameId/401810995/lakers-mavericks",
+"description": "Final: Lakers 128, Mavericks 134 (W)\nDallas Mavericks\nLakers (50-27) @ Mavericks (24-53)\nRegular Season\n📺 NBC, Peacock\nhttps://www.espn.com/nba/game/_/gameId/401810995/lakers-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 },
 {
@@ -1436,7 +1436,7 @@
 "start": "2026-04-08T02:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 103, Clippers 116 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SoCal, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401811011/mavericks-clippers",
+"description": "Final: Mavericks 103, Clippers 116 (L)\nDallas Mavericks\nMavericks (25-53) @ Clippers (40-38)\nRegular Season\n📺 KFAA-TV, MavsTV, FanDuel SN SoCal, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401811011/mavericks-clippers",
 "location": "Intuit Dome, Inglewood, CA"
 },
 {
@@ -1445,7 +1445,7 @@
 "start": "2026-04-09T02:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 107, Suns 112 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, Arizona's Family 3TV, Suns Live, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401811019/mavericks-suns",
+"description": "Final: Mavericks 107, Suns 112 (L)\nDallas Mavericks\nMavericks (25-54) @ Suns (43-36)\nRegular Season\n📺 KFAA-TV, MavsTV, Arizona's Family 3TV, Suns Live, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401811019/mavericks-suns",
 "location": "Mortgage Matchup Center, Phoenix, AZ"
 },
 {
@@ -1454,7 +1454,7 @@
 "start": "2026-04-11T00:00:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Mavericks 120, Spurs 139 (L)\nDallas Mavericks\nRegular Season\n📺 KFAA-TV, MavsTV, KENS 5, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401811035/mavericks-spurs",
+"description": "Final: Mavericks 120, Spurs 139 (L)\nDallas Mavericks\nMavericks (25-55) @ Spurs (61-19)\nRegular Season\n📺 KFAA-TV, MavsTV, KENS 5, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401811035/mavericks-spurs",
 "location": "Frost Bank Center, San Antonio, TX"
 },
 {
@@ -1463,7 +1463,7 @@
 "start": "2026-04-13T00:30:00+00:00",
 "hours": 2.5,
 "time_valid": true,
-"description": "Final: Bulls 128, Mavericks 149 (W)\nDallas Mavericks\nRegular Season\n📺 CHSN, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401811048/bulls-mavericks",
+"description": "Final: Bulls 128, Mavericks 149 (W)\nDallas Mavericks\nBulls (31-50) @ Mavericks (25-56)\nRegular Season\n📺 CHSN, KFAA-TV, MavsTV, NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401811048/bulls-mavericks",
 "location": "American Airlines Center, Dallas, TX"
 }
 ]
