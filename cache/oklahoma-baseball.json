@@ -1,0 +1,524 @@
+[
+{
+"uid": "espn-college-baseball-401847471@sports-calendar",
+"title": "⚾ Oklahoma vs Texas Tech (10–3)",
+"start": "2026-02-13T17:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season · Shriners Children's College Showdown\nFinal: Oklahoma 10, Texas Tech 3",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847472@sports-calendar",
+"title": "⚾ Oklahoma St vs Oklahoma (1–10)",
+"start": "2026-02-14T21:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season · Shriners Children's College Showdown\nFinal: Oklahoma St 1, Oklahoma 10",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847473@sports-calendar",
+"title": "⚾ TCU vs Oklahoma (2–12)",
+"start": "2026-02-16T01:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season · Shriners Children's College Showdown\nFinal: TCU 2, Oklahoma 12",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847474@sports-calendar",
+"title": "⚾ New Mexico St @ Oklahoma (6–10)",
+"start": "2026-02-17T00:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: New Mexico St 6, Oklahoma 10\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847475@sports-calendar",
+"title": "⚾ Coppin St @ Oklahoma (1–22)",
+"start": "2026-02-20T22:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Coppin St 1, Oklahoma 22\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847476@sports-calendar",
+"title": "⚾ Coppin St @ Oklahoma (0–24)",
+"start": "2026-02-21T20:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Coppin St 0, Oklahoma 24\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847477@sports-calendar",
+"title": "⚾ Coppin St @ Oklahoma (0–11)",
+"start": "2026-02-22T17:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Coppin St 0, Oklahoma 11",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401848413@sports-calendar",
+"title": "⚾ Arizona St @ Oklahoma (15–3)",
+"start": "2026-02-24T22:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Arizona St 15, Oklahoma 3\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401848414@sports-calendar",
+"title": "⚾ Arizona St @ Oklahoma (3–4)",
+"start": "2026-02-25T22:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Arizona St 3, Oklahoma 4\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847480@sports-calendar",
+"title": "⚾ Gonzaga @ Oklahoma (4–14)",
+"start": "2026-02-27T22:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Gonzaga 4, Oklahoma 14\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847480/gonzaga-bulldogs-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847481@sports-calendar",
+"title": "⚾ Gonzaga @ Oklahoma (1–11)",
+"start": "2026-02-28T20:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Gonzaga 1, Oklahoma 11\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847481/gonzaga-bulldogs-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847482@sports-calendar",
+"title": "⚾ Gonzaga @ Oklahoma (7–1)",
+"start": "2026-03-01T19:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Gonzaga 7, Oklahoma 1\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847483@sports-calendar",
+"title": "⚾ Dallas Baptist @ Oklahoma (0–2)",
+"start": "2026-03-04T00:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Dallas Baptist 0, Oklahoma 2\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847484@sports-calendar",
+"title": "⚾ Santa Clara @ Oklahoma (1–2)",
+"start": "2026-03-06T00:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Santa Clara 1, Oklahoma 2\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847484/santa-clara-broncos-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847486@sports-calendar",
+"title": "⚾ Santa Clara @ Oklahoma (0–8)",
+"start": "2026-03-07T20:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Santa Clara 0, Oklahoma 8\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847486/santa-clara-broncos-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847487@sports-calendar",
+"title": "⚾ Santa Clara @ Oklahoma (6–8)",
+"start": "2026-03-08T18:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Santa Clara 6, Oklahoma 8\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847487/santa-clara-broncos-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847488@sports-calendar",
+"title": "⚾ UT Arlington @ Oklahoma (1–6)",
+"start": "2026-03-11T20:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: UT Arlington 1, Oklahoma 6\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847489@sports-calendar",
+"title": "⚾ Texas A&M @ Oklahoma (7–8)",
+"start": "2026-03-13T23:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Texas A&M 7, Oklahoma 8\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847489/texas-am-aggies-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847490@sports-calendar",
+"title": "⚾ Texas A&M @ Oklahoma (9–5)",
+"start": "2026-03-14T21:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Texas A&M 9, Oklahoma 5\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847490/texas-am-aggies-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847491@sports-calendar",
+"title": "⚾ Texas A&M @ Oklahoma (11–12)",
+"start": "2026-03-15T19:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Texas A&M 11, Oklahoma 12\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847491/texas-am-aggies-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847492@sports-calendar",
+"title": "⚾ Oklahoma @ SE Louisiana (0–3)",
+"start": "2026-03-17T23:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 0, SE Louisiana 3\n📺 ESPN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847358@sports-calendar",
+"title": "⚾ Oklahoma @ LSU (1–7)",
+"start": "2026-03-20T00:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 1, LSU 7\n📺 ESPNU",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847359@sports-calendar",
+"title": "⚾ Oklahoma @ LSU (4–2)",
+"start": "2026-03-20T23:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 4, LSU 2\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847360@sports-calendar",
+"title": "⚾ Oklahoma @ LSU (4–3)",
+"start": "2026-03-21T19:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 4, LSU 3\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847493@sports-calendar",
+"title": "⚾ Oklahoma @ Texas (0–14)",
+"start": "2026-03-27T00:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 0, Texas 14\n📺 SEC Network",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847494@sports-calendar",
+"title": "⚾ Oklahoma @ Texas (3–4)",
+"start": "2026-03-28T00:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 3, Texas 4\n📺 SEC Network",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847495@sports-calendar",
+"title": "⚾ Oklahoma @ Texas (4–5)",
+"start": "2026-03-28T21:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 4, Texas 5\n📺 SEC Network",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847496@sports-calendar",
+"title": "⚾ Oklahoma @ Oral Roberts (4–0)",
+"start": "2026-03-31T23:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 4, Oral Roberts 0",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847072@sports-calendar",
+"title": "⚾ Alabama @ Oklahoma (10–7)",
+"start": "2026-04-02T23:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Alabama 10, Oklahoma 7\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847073@sports-calendar",
+"title": "⚾ Alabama @ Oklahoma (2–4)",
+"start": "2026-04-03T18:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Alabama 2, Oklahoma 4\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847073/alabama-crimson-tide-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847074@sports-calendar",
+"title": "⚾ Alabama @ Oklahoma (3–2)",
+"start": "2026-04-04T19:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Alabama 3, Oklahoma 2\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847074/alabama-crimson-tide-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847497@sports-calendar",
+"title": "⚾ Oklahoma @ Dallas Baptist (9–3)",
+"start": "2026-04-06T23:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 9, Dallas Baptist 3",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847498@sports-calendar",
+"title": "⚾ Oklahoma @ Vanderbilt (5–10)",
+"start": "2026-04-09T23:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 5, Vanderbilt 10\n📺 SEC Network",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847499@sports-calendar",
+"title": "⚾ Oklahoma @ Vanderbilt (13–11)",
+"start": "2026-04-10T23:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 13, Vanderbilt 11\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847500@sports-calendar",
+"title": "⚾ Oklahoma @ Vanderbilt (6–5)",
+"start": "2026-04-11T18:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 6, Vanderbilt 5\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847501@sports-calendar",
+"title": "⚾ Oklahoma St vs Oklahoma (7–3)",
+"start": "2026-04-15T00:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma St 7, Oklahoma 3\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847501/oklahoma-state-cowboys-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847458@sports-calendar",
+"title": "⚾ Missouri @ Oklahoma (6–9)",
+"start": "2026-04-17T23:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Missouri 6, Oklahoma 9\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847458/missouri-tigers-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847459@sports-calendar",
+"title": "⚾ Missouri @ Oklahoma (0–4)",
+"start": "2026-04-18T21:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Missouri 0, Oklahoma 4\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847459/missouri-tigers-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847460@sports-calendar",
+"title": "⚾ Missouri @ Oklahoma (4–8)",
+"start": "2026-04-19T19:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Missouri 4, Oklahoma 8\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847460/missouri-tigers-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847502@sports-calendar",
+"title": "⚾ Oral Roberts @ Oklahoma (6–7)",
+"start": "2026-04-21T23:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oral Roberts 6, Oklahoma 7\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847187@sports-calendar",
+"title": "⚾ Oklahoma @ Auburn (4–6)",
+"start": "2026-04-24T23:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 4, Auburn 6\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847187/oklahoma-sooners-auburn-tigers",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847188@sports-calendar",
+"title": "⚾ Oklahoma @ Auburn (2–1)",
+"start": "2026-04-25T23:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 2, Auburn 1\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847188/oklahoma-sooners-auburn-tigers",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847189@sports-calendar",
+"title": "⚾ Oklahoma @ Auburn (4–14)",
+"start": "2026-04-26T19:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 4, Auburn 14\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847189/oklahoma-sooners-auburn-tigers",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847238@sports-calendar",
+"title": "⚾ Florida @ Oklahoma (3–4)",
+"start": "2026-05-01T23:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Florida 3, Oklahoma 4\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847238/florida-gators-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847239@sports-calendar",
+"title": "⚾ Florida @ Oklahoma (10–5)",
+"start": "2026-05-02T23:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Florida 10, Oklahoma 5\n📺 SEC Network\nhttps://www.espn.com/college-baseball/game/_/gameId/401847239/florida-gators-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847240@sports-calendar",
+"title": "⚾ Florida @ Oklahoma (13–2)",
+"start": "2026-05-03T19:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Florida 13, Oklahoma 2\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847240/florida-gators-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847147@sports-calendar",
+"title": "⚾ Oklahoma @ Arkansas (2–12)",
+"start": "2026-05-08T21:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 2, Arkansas 12\n📺 SECN+",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847148@sports-calendar",
+"title": "⚾ Oklahoma @ Arkansas (8–12)",
+"start": "2026-05-09T19:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 8, Arkansas 12\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847148/oklahoma-sooners-arkansas-razorbacks",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847149@sports-calendar",
+"title": "⚾ Oklahoma @ Arkansas (15–10)",
+"start": "2026-05-10T18:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Oklahoma 15, Arkansas 10\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847149/oklahoma-sooners-arkansas-razorbacks",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847504@sports-calendar",
+"title": "⚾ Tennessee @ Oklahoma (9–7)",
+"start": "2026-05-14T23:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Tennessee 9, Oklahoma 7\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847504/tennessee-volunteers-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847505@sports-calendar",
+"title": "⚾ Tennessee @ Oklahoma (9–4)",
+"start": "2026-05-15T23:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Tennessee 9, Oklahoma 4\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847505/tennessee-volunteers-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401847506@sports-calendar",
+"title": "⚾ Tennessee @ Oklahoma (9–12)",
+"start": "2026-05-16T19:30:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season\nFinal: Tennessee 9, Oklahoma 12\n📺 SECN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401847506/tennessee-volunteers-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401869479@sports-calendar",
+"title": "⚾ LSU vs Oklahoma (6–2)",
+"start": "2026-05-20T01:55:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegular Season · SEC Tournament - First Round\nFinal: LSU 6, Oklahoma 2\n📺 SEC Network\nhttps://www.espn.com/college-baseball/game/_/gameId/401869479/lsu-tigers-oklahoma-sooners",
+"location": ""
+},
+{
+"uid": "espn-college-baseball-401874170@sports-calendar",
+"title": "⚾ The Citadel vs Oklahoma (3–8)",
+"start": "2026-05-30T14:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegionals · NCAA Baseball Championship - Atlanta Regional Rescheduled from 5/29\nFinal: The Citadel 3, Oklahoma 8\n📺 ESPNU\nhttps://www.espn.com/college-baseball/game/_/gameId/401874170/the-citadel-bulldogs-oklahoma-sooners",
+"location": "Mac Nease Baseball Park, Atlanta, Georgia"
+},
+{
+"uid": "espn-college-baseball-401873791@sports-calendar",
+"title": "⚾ Oklahoma @ Georgia Tech (3–9)",
+"start": "2026-05-30T23:06:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegionals · NCAA Baseball Championship - Atlanta Regional\nFinal: Oklahoma 3, Georgia Tech 9\n📺 ESPN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401873791/oklahoma-sooners-georgia-tech-yellow-jackets",
+"location": "Mac Nease Baseball Park, Atlanta, Georgia"
+},
+{
+"uid": "espn-college-baseball-401873793@sports-calendar",
+"title": "⚾ Oklahoma vs The Citadel (15–5)",
+"start": "2026-05-31T17:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegionals · NCAA Baseball Championship - Atlanta Regional - Elimination Game\nFinal: Oklahoma 15, The Citadel 5\n📺 SEC Network\nhttps://www.espn.com/college-baseball/game/_/gameId/401873793/oklahoma-sooners-the-citadel-bulldogs",
+"location": "Mac Nease Baseball Park, Atlanta, Georgia"
+},
+{
+"uid": "espn-college-baseball-401873795@sports-calendar",
+"title": "⚾ Georgia Tech vs Oklahoma (8–15)",
+"start": "2026-05-31T22:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegionals · NCAA Baseball Championship - Atlanta Regional\nFinal: Georgia Tech 8, Oklahoma 15\n📺 ESPN+\nhttps://www.espn.com/college-baseball/game/_/gameId/401873795/georgia-tech-yellow-jackets-oklahoma-sooners",
+"location": "Mac Nease Baseball Park, Atlanta, Georgia"
+},
+{
+"uid": "espn-college-baseball-401873796@sports-calendar",
+"title": "⚾ Georgia Tech vs Oklahoma (7–8)",
+"start": "2026-06-01T19:00:00+00:00",
+"hours": 3,
+"time_valid": true,
+"description": "Oklahoma Baseball\nRegionals · NCAA Baseball Championship - Atlanta Regional - Oklahoma advances to Super Regional\nFinal: Georgia Tech 7, Oklahoma 8\n📺 ESPNU\nhttps://www.espn.com/college-baseball/game/_/gameId/401873796/georgia-tech-yellow-jackets-oklahoma-sooners",
+"location": "Mac Nease Baseball Park, Atlanta, Georgia"
+}
+]

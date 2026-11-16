@@ -1,0 +1,110 @@
+[
+{
+"uid": "espn-college-football-401856664@sports-calendar",
+"title": "🏈 UTEP @ Oklahoma (0–51)",
+"start": "2026-09-05T00:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "Oklahoma Football\nRegular Season · Week 1\nFinal: UTEP 0, Oklahoma 51\n📺 SECN+\nhttps://www.espn.com/college-football/game/_/gameId/401856664/utep-oklahoma",
+"location": "Memorial Stadium (Norman, OK)"
+},
+{
+"uid": "espn-college-football-401856679@sports-calendar",
+"title": "🏈 Oklahoma @ Michigan (10–17)",
+"start": "2026-09-12T16:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "Oklahoma Football\nRegular Season · Week 2\nFinal: Oklahoma 10, Michigan 17\n📺 Fox, ERADM\nhttps://www.espn.com/college-football/game/_/gameId/401856679/oklahoma-michigan",
+"location": "Michigan Stadium, Ann Arbor, MI"
+},
+{
+"uid": "espn-college-football-401856690@sports-calendar",
+"title": "🏈 New Mexico @ Oklahoma (6–14)",
+"start": "2026-09-19T23:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "Oklahoma Football\nRegular Season · Week 3\nFinal: New Mexico 6, Oklahoma 14\n📺 ESPNEWS\nhttps://www.espn.com/college-football/game/_/gameId/401856690/new-mexico-oklahoma",
+"location": "Memorial Stadium (Norman, OK)"
+},
+{
+"uid": "espn-college-football-401856700@sports-calendar",
+"title": "🏈 Oklahoma @ Georgia (13–41)",
+"start": "2026-09-26T19:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "Oklahoma Football\nRegular Season · Week 4\nFinal: Oklahoma 13, Georgia 41\n📺 ESPN, Disney+\nhttps://www.espn.com/college-football/game/_/gameId/401856700/oklahoma-georgia",
+"location": "Sanford Stadium, Athens, GA"
+},
+{
+"uid": "espn-college-football-401856717@sports-calendar",
+"title": "🏈 Texas vs Oklahoma (24–27)",
+"start": "2026-10-10T19:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "Oklahoma Football\nRegular Season · Week 6\nFinal: Texas 24, Oklahoma 27\n📺 ABC\nhttps://www.espn.com/college-football/game/_/gameId/401856717/texas-oklahoma",
+"location": "Cotton Bowl, Dallas, TX"
+},
+{
+"uid": "espn-college-football-401856722@sports-calendar",
+"title": "🏈 Kentucky @ Oklahoma (21–13)",
+"start": "2026-10-17T23:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "Oklahoma Football\nRegular Season · Week 7\nFinal: Kentucky 21, Oklahoma 13\n📺 SEC Network\nhttps://www.espn.com/college-football/game/_/gameId/401856722/kentucky-oklahoma",
+"location": "Memorial Stadium (Norman, OK)"
+},
+{
+"uid": "espn-college-football-401856730@sports-calendar",
+"title": "🏈 Oklahoma @ Mississippi St (23–15)",
+"start": "2026-10-24T19:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "Oklahoma Football\nRegular Season · Week 8\nFinal: Oklahoma 23, Mississippi St 15\n📺 SEC Network\nhttps://www.espn.com/college-football/game/_/gameId/401856730/oklahoma-mississippi-st",
+"location": "Davis Wade Stadium, Starkville, MS"
+},
+{
+"uid": "espn-college-football-401856736@sports-calendar",
+"title": "🏈 South Carolina @ Oklahoma (42–25)",
+"start": "2026-10-31T20:15:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "Oklahoma Football\nRegular Season · Week 9\nFinal: South Carolina 42, Oklahoma 25\n📺 SEC Network\nhttps://www.espn.com/college-football/game/_/gameId/401856736/south-carolina-oklahoma",
+"location": "Memorial Stadium (Norman, OK)"
+},
+{
+"uid": "espn-college-football-401856739@sports-calendar",
+"title": "🏈 Oklahoma @ Florida (23–7)",
+"start": "2026-11-08T00:45:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "Oklahoma Football\nRegular Season · Week 10\nFinal: Oklahoma 23, Florida 7\n📺 SEC Network\nhttps://www.espn.com/college-football/game/_/gameId/401856739/oklahoma-florida",
+"location": "Ben Hill Griffin Stadium, Gainesville, FL"
+},
+{
+"uid": "espn-college-football-401856887@sports-calendar",
+"title": "🏈 Ole Miss @ Oklahoma (17–24)",
+"start": "2026-11-15T18:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "Oklahoma Football\nRegular Season · Week 11\nFinal: Ole Miss 17, Oklahoma 24\n📺 SEC Network\nhttps://www.espn.com/college-football/game/_/gameId/401856887/ole-miss-oklahoma",
+"location": "Memorial Stadium (Norman, OK)"
+},
+{
+"uid": "espn-college-football-401856752@sports-calendar",
+"title": "🏈 Texas A&M @ Oklahoma",
+"start": "2026-11-21T20:45:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "Oklahoma Football\nRegular Season · Week 12\n📺 ESPN2\nhttps://www.espn.com/college-football/game/_/gameId/401856752/texas-am-oklahoma",
+"location": "Memorial Stadium (Norman, OK)"
+},
+{
+"uid": "espn-college-football-401856763@sports-calendar",
+"title": "🏈 Oklahoma @ Missouri (time TBD)",
+"start": "2026-11-28T05:00:00+00:00",
+"hours": 3.5,
+"time_valid": false,
+"description": "Oklahoma Football\nRegular Season · Week 13 · AFTERNOON: 3:30 - 4:30pm ET start\nhttps://www.espn.com/college-football/game/_/gameId/401856763/oklahoma-missouri",
+"location": "Memorial Stadium, Columbia, MO"
+}
+]

@@ -1,0 +1,18 @@
+{
+  "calendar_name": "My Sports",
+  "timezone": "America/Chicago",
+  "teams": [
+    {"name": "Oklahoma Football",   "emoji": "🏈", "sport": "football",   "league": "college-football",        "team_id": "201", "hours": 3.5},
+    {"name": "Oklahoma Basketball", "emoji": "🏀", "sport": "basketball", "league": "mens-college-basketball", "team_id": "201", "hours": 2},
+    {"name": "Oklahoma Baseball",   "emoji": "⚾", "sport": "baseball",   "league": "college-baseball",        "team_id": "112", "hours": 3},
+    {"name": "Dallas Cowboys",      "emoji": "🏈", "sport": "football",   "league": "nfl",                     "team_id": "6",   "hours": 3.5},
+    {"name": "Dallas Mavericks",    "emoji": "🏀", "sport": "basketball", "league": "nba",                     "team_id": "6",   "hours": 2.5},
+    {"name": "Texas Rangers",       "emoji": "⚾", "sport": "baseball",   "league": "mlb",                     "team_id": "13",  "hours": 3}
+  ],
+  "racing": [
+    {"name": "Formula 1", "emoji": "🏎️", "league": "f1",
+     "sessions": {"Qual": ["Qualifying", 1], "SS": ["Sprint Qualifying", 1], "SR": ["Sprint", 1], "Race": ["Grand Prix", 2]}},
+    {"name": "NASCAR Cup", "emoji": "🏁", "league": "nascar-premier",
+     "sessions": {"*": ["", 3.5]}}
+  ]
+}

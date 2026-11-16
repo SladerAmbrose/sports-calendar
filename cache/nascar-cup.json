@@ -1,0 +1,362 @@
+[
+{
+"uid": "espn-nascar-premier-202602044256-202602044256@sports-calendar",
+"title": "🏁 Clash at Bowman Gray",
+"start": "2026-02-04T23:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nClash at Bowman Gray\n🏆 Ryan Preece\n📺 FOX",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202602120044-202602120044@sports-calendar",
+"title": "🏁 Duel #1",
+"start": "2026-02-13T00:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nDuel #1\n🏆 Joey Logano\n📺 FS1",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202602120045-202602120045@sports-calendar",
+"title": "🏁 Duel #2",
+"start": "2026-02-13T01:45:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nDuel #2\n🏆 Chase Elliott\n📺 FS1",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202602150001-202602150001@sports-calendar",
+"title": "🏁 Daytona 500",
+"start": "2026-02-15T18:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nDaytona 500\n🏆 Tyler Reddick\n📺 FOX",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202602220025-202602220025@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Atlanta",
+"start": "2026-02-22T20:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Atlanta\n🏆 Tyler Reddick\n📺 FOX",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202603013998-202603013998@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Circuit of the Americas",
+"start": "2026-03-01T20:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Circuit of the Americas\n🏆 Tyler Reddick\n📺 FOX",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202603080023-202603080023@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Phoenix",
+"start": "2026-03-08T19:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Phoenix\n🏆 Ryan Blaney\n📺 FS1",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202603150028-202603150028@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Las Vegas",
+"start": "2026-03-15T20:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Las Vegas\n🏆 Denny Hamlin\n📺 FS1",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202603220030-202603220030@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Darlington",
+"start": "2026-03-22T19:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Darlington\n🏆 Tyler Reddick\n📺 FS1",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202603290015-202603290015@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Martinsville",
+"start": "2026-03-29T19:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Martinsville\n🏆 Chase Elliott\n📺 FS1, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202604120031-202604120031@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Bristol",
+"start": "2026-04-12T19:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Bristol\n🏆 Ty Gibbs\n📺 FS1, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202604190757-202604190757@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Kansas",
+"start": "2026-04-19T18:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Kansas\n🏆 Tyler Reddick\n📺 FOX, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202604260022-202604260022@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Talladega",
+"start": "2026-04-26T19:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Talladega\n🏆 Carson Hocevar\n📺 FOX, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202605030054-202605030054@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Texas",
+"start": "2026-05-03T19:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Texas\n🏆 Chase Elliott\n📺 FS1, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202605100013-202605100013@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Watkins Glen",
+"start": "2026-05-10T19:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Watkins Glen\n🏆 Shane van Gisbergen\n📺 FS1, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202605170027-202605170027@sports-calendar",
+"title": "🏁 NASCAR Cup Series All Star Race",
+"start": "2026-05-17T17:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series All Star Race\n🏆 Denny Hamlin\n📺 FS1, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202605240003-202605240003@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Charlotte",
+"start": "2026-05-24T22:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Charlotte\n🏆 Daniel Suarez\n📺 Prime Video, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202605314001-202605314001@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Nashville",
+"start": "2026-05-31T23:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Nashville\n🏆 Denny Hamlin\n📺 Prime Video, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202606070014-202606070014@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Michigan",
+"start": "2026-06-07T19:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Michigan\n🏆 Denny Hamlin\n📺 Prime Video, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202606140011-202606140011@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Pocono",
+"start": "2026-06-14T17:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Pocono\n🏆 Denny Hamlin\n📺 Prime Video, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202606214266-202606214266@sports-calendar",
+"title": "🏁 NASCAR Cup Series at San Diego",
+"start": "2026-06-21T20:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at San Diego\n🏆 Corey Heim\n📺 Prime Video, HBO Max",
+"location": "Naval Base Coronado, San Diego, CA"
+},
+{
+"uid": "espn-nascar-premier-202606280008-202606280008@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Sonoma",
+"start": "2026-06-28T19:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Sonoma\n🏆 Shane van Gisbergen\n📺 TNT, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202607050038-202607050038@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Chicago",
+"start": "2026-07-05T22:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Chicago\n🏆 Chase Briscoe\n📺 TNT, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202607120029-202607120029@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Atlanta",
+"start": "2026-07-12T23:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Atlanta\n🏆 Ryan Blaney\n📺 TNT, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202607195827-202607195827@sports-calendar",
+"title": "🏁 NASCAR Cup Series at North Wilkesboro",
+"start": "2026-07-19T23:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at North Wilkesboro\n🏆 Joey Logano\n📺 TNT, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202607260012-202607260012@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Indianapolis",
+"start": "2026-07-26T18:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Indianapolis\n🏆 Corey Heim\n📺 TNT, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202608090746-202608090746@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Iowa",
+"start": "2026-08-09T19:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Iowa\n🏆 Ty Gibbs\n📺 USA Net, HBO Max",
+"location": "Iowa Speedway, Newton , IA"
+},
+{
+"uid": "espn-nascar-premier-202608150018-202608150018@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Richmond",
+"start": "2026-08-15T23:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Richmond\n🏆 Joey Logano\n📺 USA Net, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202608230010-202608230010@sports-calendar",
+"title": "🏁 NASCAR Cup Series at New Hampshire",
+"start": "2026-08-23T18:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at New Hampshire\n🏆 Ryan Blaney\n📺 USA Net, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202608290009-202608290009@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Daytona",
+"start": "2026-08-29T23:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Daytona\n🏆 Ryan Preece\n📺 NBC, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202609063891-202609063891@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Darlington",
+"start": "2026-09-06T21:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Darlington\n🏆 Christopher Bell\n📺 USA Net, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202609134249-202609134249@sports-calendar",
+"title": "🏁 NASCAR Cup Series at World Wide Technology Raceway",
+"start": "2026-09-13T19:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at World Wide Technology Raceway\n🏆 Kyle Larson\n📺 USA Net, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202609190016-202609190016@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Bristol",
+"start": "2026-09-19T23:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Bristol\n🏆 Joey Logano\n📺 USA Net, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202609270039-202609270039@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Kansas",
+"start": "2026-09-27T19:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Kansas\n🏆 Kyle Larson\n📺 USA Net, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202610040787-202610040787@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Las Vegas",
+"start": "2026-10-04T21:30:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Las Vegas\n🏆 Chase Briscoe\n📺 USA Net, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202610110021-202610110021@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Charlotte",
+"start": "2026-10-11T19:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Charlotte\n🏆 Chase Briscoe\n📺 USA Net, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202610180053-202610180053@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Phoenix",
+"start": "2026-10-18T19:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Phoenix\n🏆 Tyler Reddick\n📺 USA Net, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202610250041-202610250041@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Talladega",
+"start": "2026-10-25T18:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Talladega\n🏆 Kyle Larson\n📺 NBC, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202611010020-202611010020@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Martinsville",
+"start": "2026-11-01T19:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Martinsville\n🏆 William Byron\n📺 NBC, HBO Max",
+"location": ""
+},
+{
+"uid": "espn-nascar-premier-202611080042-202611080042@sports-calendar",
+"title": "🏁 NASCAR Cup Series at Miami",
+"start": "2026-11-08T20:00:00+00:00",
+"hours": 3.5,
+"time_valid": true,
+"description": "NASCAR Cup\nNASCAR Cup Series at Miami\n🏆 Ryan Blaney\n📺 NBC, HBO Max",
+"location": ""
+}
+]
