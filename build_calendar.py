@@ -118,9 +118,11 @@ def team_events(t):
                 s = c.get("score")
                 return s.get("displayValue") if isinstance(s, dict) else s
             a, h = sc(away), sc(home)
-            if a is not None and h is not None:
-                title += f" ({a}–{h})"
-            lines.append(f"Final: {nm(away)} {a}, {nm(home)} {h}")
+            # Scores stay in the description only (spoiler-safe titles).
+            mine = home if home["team"].get("id") == t["team_id"] else away
+            wl = {True: "W", False: "L"}.get(mine.get("winner"), "")
+            res = f"Final: {nm(away)} {a}, {nm(home)} {h}"
+            lines.insert(0, f"{res} ({wl})" if wl else res)
         elif status.get("state") == "post" or "postpon" in status.get("name", "").lower() \
                 or "cancel" in status.get("name", "").lower():
             title += f" [{status.get('shortDetail') or status.get('description')}]"

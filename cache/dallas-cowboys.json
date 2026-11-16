@@ -1,92 +1,92 @@
 [
 {
 "uid": "espn-nfl-401872930@sports-calendar",
-"title": "🏈 Cowboys @ Giants (20–28)",
+"title": "🏈 Cowboys @ Giants",
 "start": "2026-09-14T00:20:00+00:00",
 "hours": 3.5,
 "time_valid": true,
-"description": "Dallas Cowboys\nRegular Season · Week 1\nFinal: Cowboys 20, Giants 28\n📺 NBC\nhttps://www.espn.com/nfl/game/_/gameId/401872930/cowboys-giants",
+"description": "Final: Cowboys 20, Giants 28 (L)\nDallas Cowboys\nRegular Season · Week 1\n📺 NBC\nhttps://www.espn.com/nfl/game/_/gameId/401872930/cowboys-giants",
 "location": "MetLife Stadium, East Rutherford, NJ"
 },
 {
 "uid": "espn-nfl-401872944@sports-calendar",
-"title": "🏈 Commanders @ Cowboys (20–37)",
+"title": "🏈 Commanders @ Cowboys",
 "start": "2026-09-20T20:25:00+00:00",
 "hours": 3.5,
 "time_valid": true,
-"description": "Dallas Cowboys\nRegular Season · Week 2\nFinal: Commanders 20, Cowboys 37\n📺 Fox\nhttps://www.espn.com/nfl/game/_/gameId/401872944/commanders-cowboys",
+"description": "Final: Commanders 20, Cowboys 37 (W)\nDallas Cowboys\nRegular Season · Week 2\n📺 Fox\nhttps://www.espn.com/nfl/game/_/gameId/401872944/commanders-cowboys",
 "location": "AT&T Stadium, Arlington, TX"
 },
 {
 "uid": "espn-nfl-401872960@sports-calendar",
-"title": "🏈 Ravens vs Cowboys (34–31)",
+"title": "🏈 Ravens vs Cowboys",
 "start": "2026-09-27T20:25:00+00:00",
 "hours": 3.5,
 "time_valid": true,
-"description": "Dallas Cowboys\nRegular Season · Week 3 · NFL Rio Game\nFinal: Ravens 34, Cowboys 31\n📺 CBS\nhttps://www.espn.com/nfl/game/_/gameId/401872960/ravens-cowboys",
+"description": "Final: Ravens 34, Cowboys 31 (L)\nDallas Cowboys\nRegular Season · Week 3 · NFL Rio Game\n📺 CBS\nhttps://www.espn.com/nfl/game/_/gameId/401872960/ravens-cowboys",
 "location": "Maracanã Stadium, Rio De Janeiro"
 },
 {
 "uid": "espn-nfl-401872967@sports-calendar",
-"title": "🏈 Cowboys @ Texans (34–30)",
+"title": "🏈 Cowboys @ Texans",
 "start": "2026-10-04T17:00:00+00:00",
 "hours": 3.5,
 "time_valid": true,
-"description": "Dallas Cowboys\nRegular Season · Week 4\nFinal: Cowboys 34, Texans 30\n📺 Fox\nhttps://www.espn.com/nfl/game/_/gameId/401872967/cowboys-texans",
+"description": "Final: Cowboys 34, Texans 30 (W)\nDallas Cowboys\nRegular Season · Week 4\n📺 Fox\nhttps://www.espn.com/nfl/game/_/gameId/401872967/cowboys-texans",
 "location": "Reliant Stadium, Houston, TX"
 },
 {
 "uid": "espn-nfl-401872980@sports-calendar",
-"title": "🏈 Buccaneers @ Cowboys (24–16)",
+"title": "🏈 Buccaneers @ Cowboys",
 "start": "2026-10-09T00:15:00+00:00",
 "hours": 3.5,
 "time_valid": true,
-"description": "Dallas Cowboys\nRegular Season · Week 5\nFinal: Buccaneers 24, Cowboys 16\n📺 Prime Video\nhttps://www.espn.com/nfl/game/_/gameId/401872980/buccaneers-cowboys",
+"description": "Final: Buccaneers 24, Cowboys 16 (L)\nDallas Cowboys\nRegular Season · Week 5\n📺 Prime Video\nhttps://www.espn.com/nfl/game/_/gameId/401872980/buccaneers-cowboys",
 "location": "AT&T Stadium, Arlington, TX"
 },
 {
 "uid": "espn-nfl-401873007@sports-calendar",
-"title": "🏈 Cowboys @ Packers (13–23)",
+"title": "🏈 Cowboys @ Packers",
 "start": "2026-10-19T00:20:00+00:00",
 "hours": 3.5,
 "time_valid": true,
-"description": "Dallas Cowboys\nRegular Season · Week 6\nFinal: Cowboys 13, Packers 23\n📺 NBC\nhttps://www.espn.com/nfl/game/_/gameId/401873007/cowboys-packers",
+"description": "Final: Cowboys 13, Packers 23 (L)\nDallas Cowboys\nRegular Season · Week 6\n📺 NBC\nhttps://www.espn.com/nfl/game/_/gameId/401873007/cowboys-packers",
 "location": "Lambeau Field, Green Bay, WI"
 },
 {
 "uid": "espn-nfl-401873009@sports-calendar",
-"title": "🏈 Cowboys @ Eagles (38–21)",
+"title": "🏈 Cowboys @ Eagles",
 "start": "2026-10-27T00:15:00+00:00",
 "hours": 3.5,
 "time_valid": true,
-"description": "Dallas Cowboys\nRegular Season · Week 7\nFinal: Cowboys 38, Eagles 21\n📺 ESPN, ABC, Disney+\nhttps://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles",
+"description": "Final: Cowboys 38, Eagles 21 (W)\nDallas Cowboys\nRegular Season · Week 7\n📺 ESPN, ABC, Disney+\nhttps://www.espn.com/nfl/game/_/gameId/401873009/cowboys-eagles",
 "location": "Lincoln Financial Field, Philadelphia, PA"
 },
 {
 "uid": "espn-nfl-401873024@sports-calendar",
-"title": "🏈 Cardinals @ Cowboys (33–30)",
+"title": "🏈 Cardinals @ Cowboys",
 "start": "2026-11-01T18:00:00+00:00",
 "hours": 3.5,
 "time_valid": true,
-"description": "Dallas Cowboys\nRegular Season · Week 8\nFinal: Cardinals 33, Cowboys 30\n📺 Fox\nhttps://www.espn.com/nfl/game/_/gameId/401873024/cardinals-cowboys",
+"description": "Final: Cardinals 33, Cowboys 30 (L)\nDallas Cowboys\nRegular Season · Week 8\n📺 Fox\nhttps://www.espn.com/nfl/game/_/gameId/401873024/cardinals-cowboys",
 "location": "AT&T Stadium, Arlington, TX"
 },
 {
 "uid": "espn-nfl-401873040@sports-calendar",
-"title": "🏈 Cowboys @ Colts (27–23)",
+"title": "🏈 Cowboys @ Colts",
 "start": "2026-11-08T18:00:00+00:00",
 "hours": 3.5,
 "time_valid": true,
-"description": "Dallas Cowboys\nRegular Season · Week 9\nFinal: Cowboys 27, Colts 23\n📺 Fox\nhttps://www.espn.com/nfl/game/_/gameId/401873040/cowboys-colts",
+"description": "Final: Cowboys 27, Colts 23 (W)\nDallas Cowboys\nRegular Season · Week 9\n📺 Fox\nhttps://www.espn.com/nfl/game/_/gameId/401873040/cowboys-colts",
 "location": "Lucas Oil Stadium, Indianapolis, IN"
 },
 {
 "uid": "espn-nfl-401873063@sports-calendar",
-"title": "🏈 49ers @ Cowboys (46–40)",
+"title": "🏈 49ers @ Cowboys",
 "start": "2026-11-15T21:25:00+00:00",
 "hours": 3.5,
 "time_valid": true,
-"description": "Dallas Cowboys\nRegular Season · Week 10\nFinal: 49ers 46, Cowboys 40\n📺 Fox\nhttps://www.espn.com/nfl/game/_/gameId/401873063/49ers-cowboys",
+"description": "Final: 49ers 46, Cowboys 40 (L)\nDallas Cowboys\nRegular Season · Week 10\n📺 Fox\nhttps://www.espn.com/nfl/game/_/gameId/401873063/49ers-cowboys",
 "location": "AT&T Stadium, Arlington, TX"
 },
 {
