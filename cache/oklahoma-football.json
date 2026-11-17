@@ -100,11 +100,11 @@
 },
 {
 "uid": "espn-college-football-401856763@sports-calendar",
-"title": "🏈 Oklahoma @ Missouri (time TBD)",
-"start": "2026-11-28T05:00:00+00:00",
+"title": "🏈 Oklahoma @ Missouri",
+"start": "2026-11-28T21:15:00+00:00",
 "hours": 3.5,
-"time_valid": false,
-"description": "Oklahoma Football\nOklahoma (6-4) @ #22 Missouri\nRegular Season · Week 13 · AFTERNOON: 3:30 - 4:30pm ET start\nhttps://www.espn.com/college-football/game/_/gameId/401856763/oklahoma-missouri",
+"time_valid": true,
+"description": "Oklahoma Football\nOklahoma (6-4) @ #22 Missouri\nRegular Season · Week 13 · AFTERNOON: 3:30 - 4:30pm ET start\n📺 SEC Network\nhttps://www.espn.com/college-football/game/_/gameId/401856763/oklahoma-missouri",
 "location": "Memorial Stadium, Columbia, MO"
 }
 ]
